@@ -159,7 +159,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网(邀请码：WL345597)](https://www.wolong.tv)<br>
 `这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，但都要求特别低`
 
-| 影视APP | 小小影视 | 卧龙影视(邀请码WL345597) | 南瓜影视 | 冬瓜影视 |
+| 影视APP | 小小影视 | 卧龙影视 | 南瓜影视 | 冬瓜影视 |
 | :----: | :----:  | :----:                   | :---:   | :----:  |
 | 影片片头广告 | ✔7s | ✘ | ✔5s可跳过 | 同南瓜 |
 | 打开APP广告 | ✔7s可跳过 | ✔5s可跳过 | ✔5s无法跳过 | 同南瓜 |
