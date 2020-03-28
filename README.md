@@ -166,7 +166,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 | 下载 | [小小影视官网](http://www.wangdunwen.com/?inviteCode=ID3WVM) | [卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597) | [南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059) | [冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090) |
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度网盘文件下载工具pandownload[官网](https://pandownload.com/)。<br>
-* | [TikTok破解版iOS](https://www.lanzous.com/iaiv87e) | [TikTok破解版Android](https://www.lanzous.com/iaiv17c) |
+*  | [TikTok破解版iOS](https://www.lanzous.com/iaiv87e) | [TikTok破解版Android](https://www.lanzous.com/iaiv17c) |
 * 百度云盘搜索工具[下载地址](https://www.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
 * [草榴官网（需科学上网）](http://t66y.com/index.php?u=297138&ext=e4669)<br>
 * [草榴Android下载地址](https://github.com/yuuwill/1024app-android/releases)<br>
