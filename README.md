@@ -154,11 +154,12 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ***
 
 # 四、其它实用资源、工具
+* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
+* [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zc16sd)
+
 | :----: | :----:  | :----:                   |
 | [TikTok破解版iOS](https://www.lanzous.com/iaiv87e) | [TikTok破解版Android](https://www.lanzous.com/iaiv17c) | [91app安装地址](http://app.91porn005.me:2082/aff-afeFw) |
 | [草榴官网（需科学上网）](http://t66y.com/index.php?u=297138&ext=e4669) | [草榴Android](https://github.com/yuuwill/1024app-android/releases) | [草榴iOS下载地址](https://github.com/yuuwill/1024app-ios/releases) |
-* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
-* [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zc16sd)<br>
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597)。**这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，手机浏览的可左右滑动下方表格**
 
 | 影视APP | 小小影视 | 卧龙影视 | 南瓜影视 | 冬瓜影视 |
