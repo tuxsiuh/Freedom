@@ -162,7 +162,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 | :----: | :----:  | :----:                   | :---:   | :----:  |
 | 影片片头是否有广告 | 7s广告和小小影视的logo加载 | 无广告 | 5s广告可点击跳过 | 同南瓜影视 |
 | 打开APP是否有广告 | 7s广告可点击跳过 | 5s广告可点击跳过 | 5s广告无法跳过 | 同南瓜影视 |
-| <font color=red>下载</font> | [<font color=red>小小影视官网</font>](http://www.wangdunwen.com/?inviteCode=ID3WVM) | [卧龙影视官网(邀请码：WL345597)](https://www.wolong.tv) | [南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059) | [冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090) |
+| - 下载 | [小小影视官网](http://www.wangdunwen.com/?inviteCode=ID3WVM) | [卧龙影视官网(邀请码：WL345597)](https://www.wolong.tv) | [南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059) | [冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090) |
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度网盘文件下载工具pandownload[官网](https://pandownload.com/)。<br>
 * [国际版抖音TikTok破解版iOS](https://www.lanzous.com/iaiv87e)<br>
