@@ -159,8 +159,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ***
 
 # 四、其它实用资源、工具
-* 找到一个不错的百度盘资源，里边有机械工业出版社IT方面的电子书，全部为PDF格式，共计1488册，共57.7G。[链接](链接: https://pan.baidu.com/s/1AVSnaej80x743SbkEL2fTA) 提取码: b4js<br>
-<span style="color:red;">尽快转存下载，随时可能被和谐</span>
+* 找到一个不错的百度盘资源，里边有机械工业出版社IT方面的电子书，全部为PDF格式，共计1488册，共57.7G。[链接](链接: https://pan.baidu.com/s/1AVSnaej80x743SbkEL2fTA) 提取码: b4js**尽快转存下载，随时可能被和谐**<br>
 * 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zc16sd)
 *** 
