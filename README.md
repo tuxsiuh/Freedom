@@ -165,7 +165,8 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 
 # 五、其它实用资源、工具
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
-* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
+* [著名摄影大师WANIMAL原版作品下载(已分享14.9G共8677张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
+* [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享498册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zd45xg)
 *** 
 | Android(A) | IOS(I) | A+I | 
@@ -182,14 +183,14 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 | 缓存下载 | ✔ | ✘ | ✔ | ✔ |
 | 下载 | [小小影视官网](http://www.wangdunwen.com/?inviteCode=ID3WVM) | [卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597) | [南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059) | [冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090) |
 ***
+* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度网盘文件下载工具pandownload[官网](https://pandownload.com/)。<br>
 * 百度云盘搜索工具[下载地址](https://www.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
 * [iPhone通过快捷指令下载YouTube、Twitter视频](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)<br>
 [回到顶部](#readme)
-***
 
-`关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买`
+`关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 # 欢迎加入电报群一起交流： https://t.me/sxcool1024g
 
 
