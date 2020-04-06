@@ -18,7 +18,11 @@
         * [机场的测速](#机场的测速)<br>
         * [机场价格](#机场价格)<br>
   * [No3、我的机场使用感受](#我的机场使用感受)<br>
-* [三、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#三主流科学上网工具下载包含winmacandroid三大平台)<br>
+* [三、我的[机场](https://t.co/fdfliso9wM?amp=1)推荐及使用感受](#三我的机场推荐及使用感受)<br>
+  * [SSR、V2ray机场：STC，[官网](https://t.co/fdfliso9wM?amp=1)](#ssr、v2ray机场stc官网)
+  * [Trojan机场：[官网](https://t.co/FEE38PDhE6?amp=1)](#trojan机场官网)
+  * [机场综合使用感受](#机场综合使用感受
+* [四、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#四主流科学上网工具下载包含winmacandroid三大平台)<br>
   * [Shadowsocks](#Shadowsocks简称SS)
   * [ShadowsocksR](#ShadowsocksR简称SSR)
   * [V2ray(含官方使用手册)](#V2ray简称V2)
@@ -29,7 +33,7 @@
   * [Netch(Win)](#netch)<br>
   * [Pharos Pro(Android)](#pharos-pro)<br>
   * [shadowrocket基础教程及分组规则自动切换节点](#shadowrocket)<br>
-* [四、其它实用资源、工具](#四其它实用资源工具)
+* [五、其它实用资源、工具](#五其它实用资源工具)
 ***
 
 # 一、国内网络基本了解
@@ -85,18 +89,18 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和机场的价格对称就行。没有哪个贵，哪个便宜之说，都是相对的。要根据自己的实际需求去购买，这跟咱们平时买车一样，好车就是体验好，但价格也不便宜。<br>
 
 综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断。因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。<br>[回到顶部](#readme)
-## 我的[机场](https://t.co/fdfliso9wM?amp=1)使用感受
-* **SSR、V2ray机场：STC，[官网](https://t.co/fdfliso9wM?amp=1)**<br>
+# 三、我的[机场](https://t.co/fdfliso9wM?amp=1)推荐及使用感受
+## SSR、V2ray机场：STC，[官网](https://t.co/fdfliso9wM?amp=1)
 [STC机场](https://t.co/fdfliso9wM?amp=1)用了将近一年半时间，我经历了三次机场升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。每次升级都是在大多客户反馈高峰期体验感不好的时候去考虑升级，去扩充升级一些设备，以带来更好的体验感。这也是**我看中的第一点**。毕竟它是从客户角度出发去考虑的，符合我上边说的主观层面判断，所以一直坚持用到现在。<br>
 唯一可能不友好的一点就是价格也在随着升级在上涨，我觉得这个也可以理解，毕竟服务成本也在提高。**我看中的第二点**就是：涨价是不针对老客户的，就是你买了之后，不管以后机场涨价多少次，你永远都可用原来的价格去续费。还有，看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评](https://www.duyaoss.com/archives/1673/)。<br>
 [回到顶部](#readme)
-* **Trojan机场：shadowsocks，[官网](https://t.co/FEE38PDhE6?amp=1)**<br>
+## Trojan机场：shadowsocks，[官网](https://t.co/FEE38PDhE6?amp=1)
 原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,下图是该机场在3月21日给客户发的邮件和我的购买账单，从服务升级到补差价，感觉也是从客户角度出发在考虑做更好的服务。<br>
 ![Trojan机场](https://www.louimg.com/u/20200323/15163186.jpg "Trojan机场")
 ![Trojan机场](https://www.louimg.com/u/20200329/10211993.png "Trojan机场")
 [回到顶部](#readme)
-* **综合使用感受**<br>
-我是用的移动300M宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：<br>
+## 机场综合使用感受
+* 我是用的移动300M宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
   * 在一些高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。STC看4K几乎不卡、但看8K偶尔也会出现卡顿。<br>
   * 下载视频时候，下载工具IDM，按照我的带宽，STC是完全秒杀Trojan机场的，STC的下载速度平均下来能达到3M-5M不等,但Trojan机场的下载速度平均下来只有1M-2M不等。<br>
   * 当然STC的价格也比Trojan机场的价格高出很多。STC的基础套餐`每月38元`，还有其它的更高等级套餐，可自行到官网查看。Trojan机场的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
@@ -104,7 +108,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ***
 
-# 三、主流科学上网工具下载(包含Win、Mac、Android三大平台)
+# 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
 ## Shadowsocks（简称SS）
 * [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
 * [Shadowsocks（Mac）](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)<br>
@@ -158,7 +162,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 [回到顶部](#readme)
 ***
 
-# 四、其它实用资源、工具
+# 五、其它实用资源、工具
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zd45xg)
