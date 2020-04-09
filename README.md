@@ -166,7 +166,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 # 五、其它实用资源、工具
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享14.9G共8677张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
-* [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享498册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
+* [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享1772册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zd45xg)
 *** 
 | Android(A) | IOS(I) | A+I | 
