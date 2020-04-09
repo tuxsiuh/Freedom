@@ -168,9 +168,9 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [著名摄影大师WANIMAL原版作品下载(已分享14.9G共8677张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享1772册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zd45xg)
-* [TikTok破解版Android](https://www.lanzous.com/iaiv17c)，可注册留言点赞，无水印，支持一键下载
-* [91app安装地址](http://app.91porn005.me:2082/aff-afeFw)不要通过扫码安装，安装地址复制到手机浏览器打开下载。
-* [【草榴Android】](https://github.com/yuuwill/1024app-android/releases)  [【草榴官网（需科学上网）】](http://t66y.com/index.php?u=297138&ext=e4669) |
+* [TikTok破解版Android，可注册留言点赞，无水印，支持一键下载](https://www.lanzous.com/iaiv17c)
+* [91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载](http://app.91porn005.me:2082/aff-afeFw)
+* [【草榴Android】](https://github.com/yuuwill/1024app-android/releases)  [【草榴官网（需科学上网）】](http://t66y.com/index.php?u=297138&ext=e4669)
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597)。**这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，表内规则请以最新APP为准。手机浏览的可左右滑动下方表格**
 
 | 影视APP | 小小影视 | 卧龙影视 | 南瓜影视 | 冬瓜影视 |
