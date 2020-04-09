@@ -171,7 +171,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 *** 
 | Android(A) | IOS(I) | A+I | 
 | :----: | :----:  | :----: |
-| [TikTok破解版Android](https://www.lanzous.com/iaiv17c) | [TikTok破解版iOS](https://www.lanzous.com/iaiv87e) | [91app安装地址](http://app.91porn005.me:2082/aff-afeFw)不要通过扫码安装 |
+| [TikTok破解版Android](https://www.lanzous.com/iaiv17c) | [TikTok破解版iOS(需重新签名安装)](https://www.lanzous.com/iaiv87e) | [91app安装地址](http://app.91porn005.me:2082/aff-afeFw)不要通过扫码安装 |
 | [草榴Android](https://github.com/yuuwill/1024app-android/releases) | [草榴iOS](https://github.com/yuuwill/1024app-ios/releases) | [草榴官网（需科学上网）](http://t66y.com/index.php?u=297138&ext=e4669) |
 *** 
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597)。**这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，表内规则请以最新APP为准。手机浏览的可左右滑动下方表格**
