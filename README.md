@@ -130,14 +130,12 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
 [回到顶部](#readme)
 ## clash
-* [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases) <br>
-* [CFW使用说明书](https://docs.cfw.lbyczf.com/)
-* **Clash.for.Windows汉化版，支持SSR和V2订阅**
-[Clash.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
+* [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)[【CFW使用说明书】](https://docs.cfw.lbyczf.com/)<br>
+* **Clash.for.Windows汉化版，支持SSR和V2订阅**[Clash.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
 特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
-* [clashr内核下载](https://github.com/frainzy1477/luci-app-clash/releases/)<br>
+* [CLASHR各平台相关教程](https://docs.nameless13.com/shr)<br>
 [回到顶部](#readme)
 ## Trojan
 * [Trojan-Qt5(Win+Mac)图形界面工具](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
