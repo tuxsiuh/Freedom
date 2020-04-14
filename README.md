@@ -180,7 +180,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度网盘文件下载工具pandownload[官网](https://pandownload.com/)。<br>
 * 百度云盘搜索工具[下载地址](https://www.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
-* [iPhone通过快捷指令下载YouTube、Twitter视频](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)<br>
+* iPhone快捷指令分享[【下载YouTube、Twitter视频】](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)[【举牌小人图片生成器】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)[【文字转二维码】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)<br>
 [回到顶部](#readme)
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
