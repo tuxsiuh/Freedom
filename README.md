@@ -25,7 +25,7 @@
   * [ShadowsocksR](#ShadowsocksR简称SSR)
   * [V2ray(含官方使用手册)](#V2ray简称V2)
   * [clash(含CFW使用说明书)](#clash)
-    * [Clash.for.Windows汉化版，支持SSR和V2订阅](#ClashforWindows汉化版支持SSR和V2订阅)  
+    * [Clash.for.Windows汉化版，支持SSR和V2订阅](#clash)  
   * [Trojan](#Trojan)
   * [Mellow](#Mellow)<br>
   * [Netch(Win)](#netch)<br>
