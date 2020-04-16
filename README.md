@@ -129,14 +129,14 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ## clash
 * [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)[【CFW使用说明书】](https://docs.cfw.lbyczf.com/)<br>
-  * **Clash.for.Windows汉化版，支持SSR和V2订阅**[Clash.for.Windows汉化版](https://www.lanzous.com/i9zpaji)<br>
+  * **Clash.for.Windows汉化版，支持SSR和V2订阅**[Clash.for.Windows汉化版](https://ww.lanzous.com/i9zpaji)<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
 * [CLASHR各平台相关教程](https://docs.nameless13.com/shr)<br>
 [回到顶部](#readme)
 ## Trojan
 * [Trojan-Qt5(Win+Mac)图形界面工具](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
-* [Trojan-Qt5（Android）](https://www.lanzous.com/ia7vbhg)
+* [Trojan-Qt5（Android）](https://ww.lanzous.com/ia7vbhg)
 * [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)<br>
 * 以上Trojan工具的使用教程请查看**帮助中心**里的[Trojan服务客户端设置教程索引](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
 [回到顶部](#readme)
@@ -163,8 +163,8 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享14.9G共8677张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享1859册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
-* [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zd45xg)
-* [TikTok破解版Android，可注册留言点赞，无水印，支持一键下载](https://www.lanzous.com/iaiv17c)
+* [Android短信轰炸机(付费版)](https://ww.lanzous.com/b00zd45xg)
+* [TikTok破解版Android，可注册留言点赞，无水印，支持一键下载](https://ww.lanzous.com/iaiv17c)
 * [91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载](http://app.91porn005.me:2082/aff-afeFw)
 * [【草榴Android】](https://github.com/yuuwill/1024app-android/releases)  [【草榴官网（需科学上网）】](http://t66y.com/index.php?u=297138&ext=e4669)
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597)。**这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，表内规则请以最新APP为准。手机浏览的可左右滑动下方表格**
@@ -178,8 +178,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ***
 * 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
-* 百度网盘文件下载工具pandownload[官网](https://pandownload.com/)。<br>
-* 百度云盘搜索工具[下载地址](https://www.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
+* 百度云盘搜索工具[下载地址](https://ww.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
 * iPhone快捷指令分享[【下载YouTube、Twitter视频】](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)[【举牌小人图片生成器】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)[【文字转二维码】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)<br>
 [回到顶部](#readme)
 
