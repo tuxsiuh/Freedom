@@ -161,7 +161,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 
 # 五、其它实用资源、工具
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
-* [著名摄影大师WANIMAL原版作品下载(已分享14.9G共8677张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
+* [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [Android短信轰炸机(付费版)](https://lanzous.com/b00zd45xg)
 * [TikTok破解版Android，可注册留言点赞，无水印，支持一键下载](https://lanzous.com/iaiv17c)
@@ -183,7 +183,9 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 [回到顶部](#readme)
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
-# 欢迎加入电报群一起交流： https://t.me/sxcool1024g
+# 电报交流群：https://t.me/sxcool1024g
+![扫码进电报群](https://www.nsaimg.com/2020/04/17/2a6cb36afc25f.jpg "扫码进电报群")
+[回到顶部](#readme)
 
 
 
