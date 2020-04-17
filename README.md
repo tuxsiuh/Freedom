@@ -163,6 +163,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
+* [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [Android短信轰炸机(付费版)](https://lanzous.com/b00zd45xg)
 * [TikTok破解版Android，可注册留言点赞，无水印，支持一键下载](https://lanzous.com/iaiv17c)
 * [91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载](http://app.91porn005.me:2082/aff-afeFw)
