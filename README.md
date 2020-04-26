@@ -133,9 +133,9 @@ Trojan机场支持订阅的工具如下图
 [回到顶部](#readme)
 ## clash
 * [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)[【CFW使用说明书】](https://docs.cfw.lbyczf.com/)<br>
-  * **Clash.for.Windows汉化版，支持SSR和V2订阅**[Clash.for.Windows汉化版](https://sxcool1024.lanzous.com/i9zpaji)<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
+* **ClashR汉化版，支持SSR和V2订阅**[Clash.for.Windows汉化版](https://sxcool1024.lanzous.com/i9zpaji)<br>
 * [CLASHR各平台相关教程](https://docs.nameless13.com/shr)<br>
 [回到顶部](#readme)
 ## Trojan
@@ -190,7 +190,6 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 # 电报交流群：https://t.me/sxcool1024g
-![扫码进电报群](https://www.nsaimg.com/2020/04/17/2a6cb36afc25f.jpg "扫码进电报群")
 [回到顶部](#readme)
 
 
