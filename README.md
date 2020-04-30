@@ -171,6 +171,52 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
 * [Android短信轰炸机](https://sxcool1024.lanzous.com/b00zd45xg)
+<details>
+  <summary>43个油猴脚本</summary>
+1、	(持续更新)CSDN页面浮窗广告完全过滤净化(净化复制内容_自动展开_让你专注于文章_不影响功能使用).user.js<br>
+2、	4399Clear.user.js<br>
+3、	AC-baidu_重定向优化百度搜狗谷歌搜索_去广告_favicon_双列.user.js<br>
+4、	CSDN Clean.user.js<br>
+5、	CSDN,博客园，脚本之家，简书，segmentfault,知乎广告屏蔽.user.js<br>
+6、	CSDN、ITeye 彻底去广告，自动展开，去弹窗，免会员，净化剪贴板，防止跳转，上次测试完全可用：20190829.user.js<br>
+7、	CSDN免登录+极简化.user.js<br>
+8、	CSDN去除二维码图片.user.js<br>
+9、	csdn瘦身.user.js<br>
+10、	CSDN阅读模式.user.js<br>
+11、	Forum Master?Discuz! Revision.user.js<br>
+12、	Github 镜像访问，加速下载.user.js<br>
+13、	Popup Search.user.js<br>
+14、	Userscript+ _ Show Site All Userjs<br>.user.js<br>
+15、	『净网卫士』 吾爱破解论坛.user.js<br>
+16、	【懒人工具箱】集成全网VIP视频免费破解去广告、百度网盘直接下载、知乎视频下载、微信公众号文章音频视频图片素材下载、淘宝优惠券便捷查询+高佣返利通道等多合一版.user.js<br>
+17、	图像优化.js<br>
+18、	培训机构提醒.user.js<br>
+19、	工具合集：搜索引擎结果去重，广告过滤  + 网页网盘链接状态自动判断 + 知乎外链免确认 + QQ音乐付费无损音乐免费下载 + 拒绝二维码登录 + Bilibili 视频默认选择最高清晰度 ++.user.js<br>
+20、	广告杀手ADkiller.user.js<br>
+21、	廖雪峰教程阅读模式.user.js<br>
+22、	懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、百度网盘直接下载、知乎视频下载等多合一版。长期更新，放心使用。.user.js<br>
+23、	批改网工具箱, 允许复制粘贴拖拽, 去广告, 美化, etc(有效且最新).user.js<br>
+24、	拒绝二维码登录.user.js<br>
+25、	改变网页背景为淡灰色.user.js<br>
+26、	文件名称.bat
+27、	百度文库破解加强助手、 CSDN阅读增强助手、知乎视频下载、抖音去水印原视频下载、全网VIP视频破解，去广告.user.js<br>
+28、	百度系网站去广告.user.js<br>
+29、	百度网盘资源_搜索引擎_聚合.user.js<br>
+30、	知乎免登录.user.js<br>
+31、	知乎网页助手，5大功能集于一身.user.js<br>
+32、	网址导航去广告.user.js<br>
+33、	网盘自动填写密码【威力加强版】.user.js<br>
+34、	胡萝卜周验证码.user.js<br>
+35、	自动去除CSDN插入图片水印.user.js<br>
+36、	自动展开全文.user.js<br>
+37、	菜鸟教程去广告，清爽学习.user.js<br>
+38、	计时器掌控者_视频广告跳过_视频广告加速器.user.js<br>
+39、	购物党自动比价工具-领取淘宝内部券.user.js<br>
+40、	超星网课助手(考试专版).user.js<br>
+41、	跳过网站等待、验证码及登录(修复版).user.js<br>
+42、	迅雷会员，迅雷vip，迅雷白金超会帐号密码.user.js<br>
+43、	高级求职助手招聘网站助手，支持前程无忧、智联招聘、BOSS直聘、拉钩网、猎聘网、58同城、百度百聘.user.js<br>
+</details>
 * [TikTok破解版Android，可注册留言、点赞、私信，支持一键保存无水印视频、保存视频为gif动图](https://mp.weixin.qq.com/s?__biz=MzI5NDQ3ODA3NA==&mid=2247483829&idx=1&sn=61176b2176740a4864f4596be7264b01&chksm=ec630820db148136f37ac4d05da7565ef3c4490205f96dd3035034343cb3a408d7f069337c91&token=856190966&lang=zh_CN#rd)
 * [91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载](https://aff.91porn005.me/aff-afeFw)
 * [【草榴Android】](https://github.com/yuuwill/1024app-android/releases)  [【草榴官网（需科学上网）】](http://t66y.com/index.php?u=297138&ext=e4669)
