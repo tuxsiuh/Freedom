@@ -189,7 +189,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * iPhone快捷指令分享[【下载YouTube、Twitter视频】](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)[【举牌小人图片生成器】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)[【文字转二维码】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)<br>
 [回到顶部](#readme)
 <details>
-  <summary>43个油猴脚本[下载](https://474b.com/file/25713053-440658806)</summary>
+  <summary>43个油猴脚本下载(https://474b.com/file/25713053-440658806)</summary>
 1、	(持续更新)CSDN页面浮窗广告完全过滤净化(净化复制内容_自动展开_让你专注于文章_不影响功能使用).user.js<br>
 2、	4399Clear.user.js<br>
 3、	AC-baidu_重定向优化百度搜狗谷歌搜索_去广告_favicon_双列.user.js<br>
