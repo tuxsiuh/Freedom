@@ -136,7 +136,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)[【CFW使用说明书】](https://docs.cfw.lbyczf.com/)<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
-* **ClashR汉化版，支持SSR和V2订阅**[Clash.for.Windows汉化版](https://sxcool1024.lanzous.com/i9zpaji)<br>
+* **ClashR汉化版，支持SSR和V2订阅**[ClashR汉化版](https://sxcool1024.lanzous.com/i9zpaji)<br>
 * [CLASHR各平台相关教程](https://docs.nameless13.com/shr)<br>
 [回到顶部](#readme)
 ## Trojan
