@@ -190,7 +190,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 [回到顶部](#readme)
 ###### 实用油猴脚本分享
 <details>
-  <summary>43个油猴脚本下载(https://474b.com/file/25713053-440658806)，点黑三角可查看详情</summary>
+  <summary>43个油猴脚本下载，点黑三角可查看详情https://474b.com/file/25713053-440658806</summary>
 1、	(持续更新)CSDN页面浮窗广告完全过滤净化(净化复制内容_自动展开_让你专注于文章_不影响功能使用).user.js<br>
 2、	4399Clear.user.js<br>
 3、	AC-baidu_重定向优化百度搜狗谷歌搜索_去广告_favicon_双列.user.js<br>
