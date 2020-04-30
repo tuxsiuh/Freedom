@@ -187,8 +187,6 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度云盘搜索工具[下载地址](https://sxcool1024.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
 * iPhone快捷指令分享[【下载YouTube、Twitter视频】](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)[【举牌小人图片生成器】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)[【文字转二维码】](https://twitter.com/sxcool1024/status/1249974654325813248?s=20)<br>
-[回到顶部](#readme)
-
 <details>
   <summary>43个油猴脚本[下载](www.baidu.com)</summary>
 1、	(持续更新)CSDN页面浮窗广告完全过滤净化(净化复制内容_自动展开_让你专注于文章_不影响功能使用).user.js<br>
@@ -235,7 +233,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 42、	迅雷会员，迅雷vip，迅雷白金超会帐号密码.user.js<br>
 43、	高级求职助手招聘网站助手，支持前程无忧、智联招聘、BOSS直聘、拉钩网、猎聘网、58同城、百度百聘.user.js<br>
 </details>
-
+[回到顶部](#readme)
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 # 电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
