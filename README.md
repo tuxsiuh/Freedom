@@ -143,7 +143,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [Trojan-Qt5(Win+Mac)图形界面工具](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
 * [Trojan-Qt5（Android）](https://sxcool1024.lanzous.com/ia7vbhg)
 * [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)<br>
-* 以上Trojan工具的使用教程请查看**帮助中心**里的[Trojan服务客户端设置教程索引](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
+* 以上Trojan工具的使用教程请查看**帮助中心**里的[Trojan服务客户端设置教程索引](https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html)<br>
 [回到顶部](#readme)
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
