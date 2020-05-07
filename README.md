@@ -114,37 +114,48 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
 ## Shadowsocks（简称SS）
-* [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
-* [Shadowsocks（Mac）](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)<br>
-* [Shadowsocks（Android）](https://github.com/shadowsocks/shadowsocks-android/releases)
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）</a><br>
+  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）</a><br>
+  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
+</details>
 ## ShadowsocksR（简称SSR）
-* [ShadowsocksR（Win）](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)<br>
-* [ShadowsocksR（Mac）](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
-* [ShadowsocksR（Android）](https://github.com/shadowsocksrr/shadowsocksr-android/releases)<br>
-[回到顶部](#readme)
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）</a><br>
+  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）</a><br>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
+</details>
 ## V2ray（简称V2）
-* [V2ray官方使用手册](https://www.v2ray.com/)
-* V2ray的Windows端图形界面工具V2RayW和V2RayN
-  * [V2RayW](https://github.com/Cenmrev/V2RayW/releases)<br>
-  * [V2RayN](https://github.com/2dust/v2rayN/releases)<br>
-* V2ray的Mac端图形界面工具V2RayX和V2RayU
-  * [V2RayX](https://github.com/Cenmrev/V2RayX/releases)<br>
-  * [V2RayU](https://github.com/yanue/V2rayU/releases)<br>
-* [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
-[回到顶部](#readme)
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN（Win）</a><br>
+  <a href="https://github.com/Cenmrev/V2RayW/releases">V2ray的Windows端图形界面工具V2RayW</a><br>
+  <a href="https://github.com/Cenmrev/V2RayX/releases">V2ray的Mac端图形界面工具V2RayX</a><br>
+  <a href="https://github.com/yanue/V2rayU/releases">V2ray的Mac端图形界面工具V2RayU</a><br>
+  <a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）</a><br>
+  <a href="https://www.v2ray.com/">V2ray官方使用手册V2RayU</a><br>
+</details>
 ## clash
-* [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)[【CFW使用说明书】](https://docs.cfw.lbyczf.com/)<br>
-* [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
-* [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
-* **ClashR汉化版，支持SSR和V2订阅**[ClashR汉化版](https://sxcool1024.lanzous.com/i9zpaji)<br>
-* [CLASHR各平台相关教程](https://docs.nameless13.com/shr)<br>
-[回到顶部](#readme)
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">clash（Win）简称CFW</a><br>
+  <a href="https://docs.cfw.lbyczf.com/">【CFW使用说明书】</a><br>
+  <a href="https://github.com/yichengchen/clashX/releases">clash（Mac）</a><br>
+  <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）</a><br>
+  <a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
+  <a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
+</details>
 ## Trojan
-* [Trojan-Qt5(Win+Mac)图形界面工具](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
-* [Trojan-Qt5（Android）](https://sxcool1024.lanzous.com/ia7vbhg)
-* [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)<br>
-* 以上Trojan工具的使用教程请查看**帮助中心**里的[Trojan服务客户端设置教程索引](https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html)<br>
-[回到顶部](#readme)
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/TheWanderingCoel/Trojan-Qt5/releases">Trojan-Qt5(Win+Mac)图形界面工具</a><br>
+  <a href="https://474b.com/file/25713053-442345681">Trojan-Qt5（Android）</a><br>
+  <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a><br>
+  <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">Trojan服务客户端设置教程索引</a><br>
+</details>
+
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
 * Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
