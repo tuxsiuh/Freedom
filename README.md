@@ -185,7 +185,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 <details>
   <summary>Android</summary>
   <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视</a><br>
-  <a href="https://www.wolong.tv">2、卧龙影视</a>邀请码：WL345597<br>
+  <a href="https://www.wolong.tv">2、卧龙影视</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视</a><br>
   <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版</a><br>
@@ -198,10 +198,14 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 
 <details>
   <summary>iOS+Mac</summary>
-  <a href="https://474b.com/file/25713053-442341476">1、TikTok苹果版</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">2、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">2、iPhone快捷指令【举牌小人图片生成器】</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">2、iPhone快捷指令【文字转二维码】</a><br>
+  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视</a><br>
+  <a href="https://www.wolong.tv">2、卧龙影视</a>    邀请码：WL345597<br>
+  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视</a><br>
+  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视</a><br>
+  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">8、iPhone快捷指令【文字转二维码】</a><br>
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
