@@ -171,7 +171,8 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
 * [Android短信轰炸机](https://sxcool1024.lanzous.com/b00zd45xg)
-* [TikTok破解版Android，可注册留言、点赞、私信，支持一键保存无水印视频、保存视频为gif动图](https://mp.weixin.qq.com/s?__biz=MzI5NDQ3ODA3NA==&mid=2247483829&idx=1&sn=61176b2176740a4864f4596be7264b01&chksm=ec630820db148136f37ac4d05da7565ef3c4490205f96dd3035034343cb3a408d7f069337c91&token=856190966&lang=zh_CN#rd)
+* [真正的全局代理工具sstap](https://474b.com/file/25713053-442234826)
+* [TikTok破解版Android，可注册留言、点赞、私信，支持一键保存无水印视频、保存视频为gif动图，不插卡，不用翻墙](https://474b.com/file/25713053-438607236)
 * [91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载](https://aff.91porn005.me/aff-afeFw)
 * [【草榴Android】](https://github.com/yuuwill/1024app-android/releases)  [【草榴官网（需科学上网）】](http://t66y.com/index.php?u=297138&ext=e4669)
 * 手机影视神器，摆脱爱奇艺、优酷、腾讯平台的长时间广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)、[卧龙影视官网](https://www.wolong.tv)(邀请码：WL345597)。**这些APP都不需要花钱买会员，会员获取方式就是推荐其他人下载，表内规则请以最新APP为准。手机浏览的可左右滑动下方表格**
@@ -237,6 +238,8 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
+
+获取提取码请加电报群
 # 电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
 
