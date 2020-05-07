@@ -179,7 +179,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
   <a href="https://474b.com/file/25713053-442341364">4、酷我音乐豪华破解版</a><br>
   <a href="https://474b.com/file/25713053-442341369">5、音乐间谍重制版</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">6、草榴官网</a><br>
-  <a href="https://474b.com/file/25713053-440658806">7、四十三个油猴脚本下载</a><br>
+  <a href="https://474b.com/file/25713053-440658806">7、四十四个油猴脚本下载</a><br>
 </details>
 
 <details>
