@@ -204,8 +204,6 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
   <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">2、iPhone快捷指令【文字转二维码】</a><br>
 </details>
 
-[回到顶部](#readme)
-
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 
 获取提取码请加电报群
