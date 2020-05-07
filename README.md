@@ -177,7 +177,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
   <a href="https://474b.com/file/25713053-442234826">1、真正的全局代理工具sstap</a><br>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">2、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">3、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
-  <a href="https://474b.com/file/25713053-442341364">4、酷我音乐豪华破解版</a><br>
+  <a href="https://474b.com/file/25713053-442341364">4、酷我音乐豪华破解版，支持无损下载</a><br>
   <a href="https://474b.com/file/25713053-442341369">5、音乐间谍重制版</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">6、草榴官网</a><br>
   <a href="https://474b.com/file/25713053-440658806">7、四十四个油猴脚本下载</a><br>
@@ -191,7 +191,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视</a><br>
   <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版</a><br>
   <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版</a><br>
-  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版</a><br>
+  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版，支持无损</a><br>
   <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版</a><br>
   <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP</a><br>
   <a href="https://aff.91porn005.me/aff-afeFw">10、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
