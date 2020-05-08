@@ -20,16 +20,17 @@
   * [Trojan机场](#trojan机场shadowsocks官网)
   * [机场综合使用感受](#机场综合使用感受)
 * [四、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#四主流科学上网工具下载包含winmacandroid三大平台)<br>
-  * [Shadowsocks](#Shadowsocks简称SS)
-  * [ShadowsocksR](#ShadowsocksR简称SSR)
   * [V2ray(含官方使用手册)](#V2ray简称V2)
   * [clash(含CFW使用说明书)](#clash)
     * [ClashR汉化版，支持SSR和V2订阅](#clash)  
   * [Trojan](#Trojan)
-  * [Mellow](#Mellow)<br>
+  * [SSTAP](#sstap)
   * [Netch(Win)](#netch)<br>
+  * [Mellow](#Mellow)<br>
   * [Pharos Pro(Android)](#pharos-pro)<br>
   * [shadowrocket基础教程及分组规则自动切换节点](#shadowrocket)<br>
+  * [Shadowsocks](#Shadowsocks简称SS)
+  * [ShadowsocksR](#ShadowsocksR简称SSR)
 * [五、其它实用资源、工具](#五其它实用资源工具)
 ***
 
@@ -92,8 +93,6 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 唯一可能不友好的一点就是价格也在随着升级在上涨，我觉得这个也可以理解，毕竟服务成本也在提高。**我看中的第二点**就是：涨价是不针对老客户的，就是你买了之后，不管以后机场涨价多少次，你永远都可用原来的价格去续费。还有，看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评](https://www.duyaoss.com/archives/1673/)。<br>
 **STC机场支持订阅的工具如下图**
 ![stc订阅](https://www.nsaimg.com/2020/04/23/29e01443b25ec.jpg "stc订阅")
-**STC机场在4月28日又一革命性升级：将旗舰和企业两个等级的全部线路升级为IPLC，具体见下图**
-![stc升级](https://www.nsaimg.com/2020/04/28/501da8307ef19.jpg "stc升级")<br>
 [回到顶部](#readme)
 ## Trojan机场：shadowsocks，[官网](https://t.co/FEE38PDhE6?amp=1)
 官网需要科学上网才能打开，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,下图是该机场在3月21日给客户发的邮件和我的购买账单，从服务升级到补差价，感觉也是从客户角度出发在考虑做更好的服务。<br>
@@ -104,7 +103,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ## 机场综合使用感受
 * 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
-  * 在一些高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。STC看4K几乎不卡、但看8K偶尔也会出现卡顿。<br>
+  * 在一些晚高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。STC看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
   * 下载视频时候，下载工具IDM，按照我的带宽，STC是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但Trojan机场的下载速度平均下来只有1M-2M不等。<br>
   * 当然STC的价格也比Trojan机场的价格高出很多。STC的基础套餐`每月38元`，还有其它的更高等级套餐，可自行到官网查看。Trojan机场的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
 ### 以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。
