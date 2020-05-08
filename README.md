@@ -122,7 +122,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   人不知道，V2rayN要 
   想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下图，顺便附上一个
   <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
-  <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置"><br>
+  <img src="https://www.nsaimg.com/2020/05/08/7843e43ebdf7d.jpg" alt="V2ray全局设置"><br>
+  <img src="https://www.nsaimg.com/2020/05/08/a4f4786c141ee.jpg" alt="V2ray全局设置"><br>
   V2ray的Windows端图形界面工具<a href="https://github.com/Cenmrev/V2RayW/releases">V2RayW下载</a><br>
   V2ray的Mac端图形界面工具<a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX下载</a>、
   <a href="https://github.com/yanue/V2rayU/releases">V2RayU下载</a><br>
