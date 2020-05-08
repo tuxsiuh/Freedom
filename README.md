@@ -135,8 +135,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  clash也是一款不错的代理工具，支持VMESS协议，但不支持ssr。它的衍生版clashR支持ssr、vmess协议。clash想要实现真正的全局代理，除了开启System Proxy
-  外，还需要安装TAP虚拟网卡设备。<br>
+  clash也是一款不错的代理工具，支持VMESS和Trojan协议，但不支持ssr。它的衍生版clashR支持ssr、vmess协议。clash想要实现真正的全局代理，除了开启
+  System Proxy外，还需要安装TAP虚拟网卡设备。<br>
   clash的Windows客户端叫做clash For Windows，简称CFW，<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">CFW下
   载。</a>给大家附上CFW的<a href="https://docs.cfw.lbyczf.com/">【文档教程】</a>和
   <a href="https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/zh_CN/v2ray/clash-for-windows-setup-guide.md">【图文教程】</a> 
