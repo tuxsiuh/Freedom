@@ -118,7 +118,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>详情</summary>
   支持VMESS协议的图形界面工具挺多的，下面给大家列举几个常用的<br>
-  <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载</a>，V2rayN用的人挺多的，但好多人不知道，V2rayN要 
+  <a href="https://github.com/2dust/v2rayN/releases" target="_blank">V2ray的Windows端图形界面工具V2RayN下载</a>，V2rayN用的人挺多的，但好多
+  人不知道，V2rayN要 
   想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下图，顺便附上一个
   <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
   <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置"><br>
@@ -151,10 +152,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>详情</summary>
   支持Trojan协议的工具并不多，电脑端的图形界面工具有<a href="https://github.com/TheWanderingCoel/Trojan-Qt5/releases">Trojan-
-  Qt5(Win+Mac+Linux)下载</a>，Trojan目前也支持一键订阅导入，只要你有Trojan机场订阅链接，即可一次性导入所有节点。工具界面如下图：<br>
+  Qt5(Win+Mac+Linux)下载</a>，TrojanQt5支持一键订阅导入，只要你有Trojan机场订阅链接，即可一次性导入所有节点。工具界面如下图：<br>
   <img src="https://www.nsaimg.com/2020/05/08/7e444c1ec6dfb.png" alt="Trojan工具"><br>
   <a href="https://474b.com/file/25713053-442345681">Trojan-Qt5（Android）下载</a><br>
-  <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a>，喜欢用黑屏命令的伙伴可下
+  <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a>，喜欢用黑屏命令风格的伙伴可下
   载。<br>
   <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan客户端设置教程索引</a><br>
 </details>
