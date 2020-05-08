@@ -103,9 +103,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ## 机场综合使用感受
 * 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
-  * 在一些晚高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。STC看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
-  * 下载视频时候，下载工具IDM，按照我的带宽，STC是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但Trojan机场的下载速度平均下来只有1M-2M不等。<br>
-  * 当然STC的价格也比Trojan机场的价格高出很多。STC的基础套餐`每月38元`，还有其它的更高等级套餐，可自行到官网查看。Trojan机场的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
+  * 在一些晚高峰时段，[Trojan机场(https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://t.co/OGzuQ1kAL3?amp=1)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
+  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有1M-2M不等。<br>
+  * 当然[STC](https://t.co/fdfliso9wM?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
 ### 以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。
   
 [回到顶部](#readme)
@@ -118,8 +118,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   支持VMESS协议的图形界面工具挺多的，下面给大家列举几个常用的<br>
   <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载</a>，V2rayN用的人挺多的，但好多
-  人不知道，V2rayN要 
-  想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下图，顺便附上一个
+  人不知道，V2rayN要想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下
+  图，顺便附上一个
   <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
   <img src="https://www.nsaimg.com/2020/05/08/7843e43ebdf7d.jpg" alt="V2ray全局设置"><br>
   <img src="https://www.nsaimg.com/2020/05/08/a4f4786c141ee.jpg" alt="V2ray全局设置"><br>
@@ -157,7 +157,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   安卓端目前支持Trojan协议的工具<a href="https://github.com/trojan-gfw/igniter/releases">igniter下载</a><br>
   <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a>，喜欢用黑屏命令风格的伙伴可下
   载。<br>
-  <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan客户端设置教程索引</a><br>
+  <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
 </details>
 
 ### SSTAP
@@ -175,9 +175,13 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录以专门获取其进程名   称真正实现分应用代理。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess、Trojan协议，也是目前为数不多的几乎支持所有协议的工具。<br>
+  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录，来专门获取其进程
+  名称，从而实现真正分应用代理。 Netch也可以实现 SSTap那样的全局 TUN/TAP 代理。Netch现在支持Socks5，Shadowsocks，ShadowsocksR，VMess、Trojan协
+  议，也是目前为数不多的几乎支持所有协议的工具。<br>
+  <img src="https://www.nsaimg.com/2020/05/09/86fba7f8b2272.jpg" alt="netch">
+  <img src="https://www.nsaimg.com/2020/05/09/39bc0a5b907f3.jpg" alt="netch">
+  <img src="https://www.nsaimg.com/2020/05/09/3bb66a8cf22a7.jpg" alt="netch">
   <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
-  <a href="https://wiki.kache.moe/2019/11/20/Windows-Netch/">Netch教程</a><br>
 </details>
 
 ### Mellow
