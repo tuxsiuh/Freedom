@@ -140,7 +140,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/zh_CN/v2ray/clash-for-windows-setup-guide.md">【图文教程】</a> 
   <br>
   <a href="https://github.com/yichengchen/clashX/releases">clash（Mac）下载</a><br>
-  <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a><br>
+  <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a>、
   <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en_US">Clash in Google Play安装</a><br>
   <a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
   <a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
@@ -150,10 +150,13 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/TheWanderingCoel/Trojan-Qt5/releases">Trojan-Qt5(Win+Mac)图形界面工具</a><br>
-  <a href="https://474b.com/file/25713053-442345681">Trojan-Qt5（Android）</a><br>
-  <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a><br>
-  <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">Trojan服务客户端设置教程索引</a><br>
+  支持Trojan协议的工具并不多，电脑端的图形界面工具有<a href="https://github.com/TheWanderingCoel/Trojan-Qt5/releases">Trojan-
+  Qt5(Win+Mac+Linux)下载</a><br>，Trojan目前也支持一键订阅导入，只要你有Trojan机场订阅链接，即可一次性导入所有节点。工具界面如下图：<br>
+  <img src="https://www.nsaimg.com/2020/05/08/7e444c1ec6dfb.png" alt="Trojan工具"><br>
+  <a href="https://474b.com/file/25713053-442345681">Trojan-Qt5（Android）下载</a><br>
+  <a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具</a><br>，喜欢用黑屏命令的伙伴可下
+  载。<br>
+  <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan客户端设置教程索引</a><br>
 </details>
 
 ### Mellow
