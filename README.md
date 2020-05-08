@@ -113,46 +113,35 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
-### Shadowsocks（简称SS）
-
-<details>
-  <summary>详情</summary>
-  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）</a><br>
-  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）</a><br>
-  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
-</details>
-
-### ShadowsocksR（简称SSR）
-
-<details>
-  <summary>详情</summary>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）</a><br>
-  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）</a><br>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
-</details>
-
 ### V2ray（简称V2）
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN（Win）</a><br>
-  V2rayN的真正全局代理在参数设置里修改，具体看下图<br>
-  <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置">
-  <a href="https://github.com/Cenmrev/V2RayW/releases">V2ray的Windows端图形界面工具V2RayW</a><br>
-  <a href="https://github.com/Cenmrev/V2RayX/releases">V2ray的Mac端图形界面工具V2RayX</a><br>
-  <a href="https://github.com/yanue/V2rayU/releases">V2ray的Mac端图形界面工具V2RayU</a><br>
-  <a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）</a><br>
-  <a href="https://www.v2ray.com/">V2ray官方使用手册V2RayU</a><br>
+  支持VMESS协议的图形界面工具挺多的，下面给大家列举几个常用的<br>
+  <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载（Win）下载，</a>
+  V2rayN用的人挺多的，但好多人不知道，V2rayN要想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在   参数设置里修改，具体看下图，这里也给大家附上一个。
+  <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN图文教程</a><br>
+  <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置"><br>
+  <a href="https://github.com/Cenmrev/V2RayW/releases">V2ray的Windows端图形界面工具V2RayW下载</a><br>
+  <a href="https://github.com/Cenmrev/V2RayX/releases">V2ray的Mac端图形界面工具V2RayX下载</a>
+  <a href="https://github.com/yanue/V2rayU/releases">、V2ray的Mac端图形界面工具V2RayU下载</a><br>
+  <a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）下载</a><br>
+  <a href="https://www.v2ray.com/">V2ray官方使用手册文档</a><br>
 </details>
 
 ### clash
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">clash（Win）简称CFW</a><br>
-  <a href="https://docs.cfw.lbyczf.com/">【CFW使用说明书】</a><br>
-  <a href="https://github.com/yichengchen/clashX/releases">clash（Mac）</a><br>
-  <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）</a><br>
+  clash也是一款不错的代理工具，支持VMESS协议，但不支持ssr。它的衍生版clashR支持ssr、vmess协议。clash想要实现真正的全局代理，除了开启System Proxy
+  外，还需要安装TAP虚拟网卡设备。
+  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">clash（Win）下载，简称CFW</a><br>
+  <a href="https://docs.cfw.lbyczf.com/">【CFW使用说明书，文档教程】</a><br>
+  <a href="https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/zh_CN/v2ray/clash-for-windows-setup-guide.md">【CFW图文教程】</a> 
+  <br>
+  <a href="https://github.com/yichengchen/clashX/releases">clash（Mac）下载</a><br>
+  <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en_US">Clash in Google Play安装</a><br>
   <a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
   <a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
 </details>
@@ -182,14 +171,6 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录以专门获取其进程名   称真正实现分应用代理。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess协议。<br>
   <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
-  <video width="320" height="240" controls>
-   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/mp4">
-   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/ogg">
-   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/webm">
-   <object data="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" width="320" height="240">
-    <embed src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" width="320" height="240">
-   </object>
-  </video>
 </details>
 
 ### SSTAP
@@ -218,6 +199,26 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="http://laob.me/2300/">ShadowRocket基础教程</a><br>
   <a href="https://blog.minirplus.com/14472/">ShadowRocket分组、规则自动切换节点</a><br>
 </details>
+
+### Shadowsocks（简称SS）
+
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）</a><br>
+  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）</a><br>
+  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
+</details>
+
+### ShadowsocksR（简称SSR）
+
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）</a><br>
+  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）</a><br>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
+</details>
+
+`关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 
 [回到顶部](#readme)
 ***
@@ -265,8 +266,6 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
 </details>
-
-`关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 
 # 电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
