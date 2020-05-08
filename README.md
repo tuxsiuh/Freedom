@@ -42,7 +42,7 @@
 
 # 二、科学上网
 ## 没落的“VPN”
-#### 1. 什么是VPN 
+#### 1. 什么是VPN
 VPN全称“虚拟私人网络（Virtual Private Network）”，VPN是一个统称。VPN是一种加密通讯技术，它被设计出来的目的是数据传输安全和网络匿名。所以它不是为了翻墙而生的，维基百科里关于VPN的介绍，说它的特殊使用才是翻墙。它的出现远早于GFW。
 ![VPN](https://www.louimg.com/u/20200312/15453995.png "VPN的维基介绍")
 GFW机制加上劳动人民的无穷智慧，促使聪慧的劳动人民开始用VPN连接外国网络实现翻墙，随着使用人数的激增和网络环境的发展，商业化的一键VPN也逐渐成熟，一些免费VPN和付费VPN就这样诞生了。<br>[回到顶部](#readme)
@@ -54,9 +54,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 ## 关于[机场](https://t.co/OGzuQ1kAL3?amp=1)
 ### 1. 什么是[机场](https://t.co/OGzuQ1kAL3?amp=1)
-随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
+随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、Netch、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
 这些工具的统一特点就是：工具自身没有翻墙功能，需要自行在服务端和客户端上部署，优点就是更加安全、速度更快，看似比一键VPN方法“繁琐”，但实际操作非常简单，其中服务端的部署有两种情况：<br>
-第一种是我们自己购买vps部署，这就是人们常说的我自己搭建节点，喜欢折腾的伙伴可以自己去购买vps搭建，网上教程非常多<br>
+第一种是我们自己购买vps部署，这就是人们常说的我自己搭建节点，喜欢折腾的伙伴可以自己去购买vps搭建，网上教程非常多，我自己是在谷歌云搭建了Trojan服务，具体教程本文第五部分有。<br>
 第二种，就是有人替我们部署好了，直接用就可以。这也是目前用的最多的科学上网方式，提供这项服务的就是[机场](https://t.co/OGzuQ1kAL3?amp=1)。<br>
 服务端部署好后，我们只需将服务器地址、端口这些基本信息添加到我们电脑或手机上的代理工具里，这就是客户端部署，这就实现了科学上网。现在很多工具都支持一键订阅，多数机场也提供了订阅链接，不需要我们手动逐一添加节点。<br>[回到顶部](#readme)
 ### 2. [机场](https://t.co/fdfliso9wM?amp=1)的选择
@@ -103,9 +103,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ![Trojan机场](https://www.nsaimg.com/2020/04/23/fb6508b7ece3e.jpg "Trojan机场")<br>
 [回到顶部](#readme)
 ## 机场综合使用感受
-* 我是用的移动300M宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
+* 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
   * 在一些高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。STC看4K几乎不卡、但看8K偶尔也会出现卡顿。<br>
-  * 下载视频时候，下载工具IDM，按照我的带宽，STC是完全秒杀Trojan机场的，STC的下载速度平均下来能达到3M-5M不等,但Trojan机场的下载速度平均下来只有1M-2M不等。<br>
+  * 下载视频时候，下载工具IDM，按照我的带宽，STC是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但Trojan机场的下载速度平均下来只有1M-2M不等。<br>
   * 当然STC的价格也比Trojan机场的价格高出很多。STC的基础套餐`每月38元`，还有其它的更高等级套餐，可自行到官网查看。Trojan机场的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
 ### 以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。
   
@@ -113,7 +113,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
-## Shadowsocks（简称SS）
+###### Shadowsocks（简称SS）
 <details>
   <summary>详情</summary>
   <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）</a><br>
@@ -121,7 +121,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
 </details>
 
-## ShadowsocksR（简称SSR）
+###### ShadowsocksR（简称SSR）
 
 <details>
   <summary>详情</summary>
@@ -129,7 +129,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）</a><br>
   <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
 </details>
-## V2ray（简称V2）
+
+###### V2ray（简称V2）
+
 <details>
   <summary>详情</summary>
   <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN（Win）</a><br>
@@ -139,7 +141,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）</a><br>
   <a href="https://www.v2ray.com/">V2ray官方使用手册V2RayU</a><br>
 </details>
-## clash
+
+###### clash
+
 <details>
   <summary>详情</summary>
   <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">clash（Win）简称CFW</a><br>
@@ -149,7 +153,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
   <a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
 </details>
-## Trojan
+
+###### Trojan
+
 <details>
   <summary>详情</summary>
   <a href="https://github.com/TheWanderingCoel/Trojan-Qt5/releases">Trojan-Qt5(Win+Mac)图形界面工具</a><br>
@@ -158,22 +164,39 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">Trojan服务客户端设置教程索引</a><br>
 </details>
 
-## Mellow
-Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
-* Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
-[回到顶部](#readme)
+###### Mellow
+
+<details>
+  <summary>详情</summary>
+  Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、
+  Shadowsocks、VMess 等多种代理协议。<br>
+  <a href="https://github.com/mellow-io/mellow/releases">Mellow[Windows、macOS和Linux安装文件下载</a><br>
+</details>
+
 ## Netch
-Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，后者可以扫描游戏目录以专门获取其进程名称并通过代理服务器转发其网络流量。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess。<br>
-同样，Netch避免了由SSTap引起的受限NAT问题。您可以使用NATTypeTester来测试您的NAT类型。当使用SSTap加速某些P2P游戏连接或该开放式NAT类型需要游戏时，您可能会遇到一些不好的情况，例如无法加入游戏。<br>
-* [Netch下载](https://github.com/NetchX/Netch/releases)<br>
-[回到顶部](#readme)
+
+<details>
+  <summary>详情</summary>
+  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录以专门获取其进程名   称实现分程序代理。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess协议。<br>
+  <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
+</details>
+
 ## Pharos Pro
-* [Pharos Pro(Android)](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
-* Pharos Pro(iOS)，登录非大陆AppleID下载。<br>
-[回到顶部](#readme)
+
+<details>
+  <summary>详情</summary>
+  <a href="https://github.com/PharosVip/Pharos-Android-Test/releases">Pharos Pro(Android)</a><br>
+  Pharos Pro(iOS)，登录非大陆AppleID下载。
+</details>
+
 ## shadowrocket
-* [ShadowRocket基础教程](http://laob.me/2300/)<br>
-* [ShadowRocket分组、规则自动切换节点](https://blog.minirplus.com/14472/)<br>
+
+<details>
+  <summary>详情</summary>
+  <a href="http://laob.me/2300/">ShadowRocket基础教程</a><br>
+  <a href="https://blog.minirplus.com/14472/">ShadowRocket分组、规则自动切换节点</a><br>
+</details>
+
 [回到顶部](#readme)
 ***
 
