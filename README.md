@@ -199,7 +199,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/PharosVip/Pharos-Android-Test/releases">Pharos Pro(Android)</a><br>
+  <a href="https://github.com/PharosVip/Pharos-Android-Test/releases">Pharos Pro(Android)下载</a><br>
   Pharos Pro(iOS)，登录非大陆AppleID下载。
 </details>
 
@@ -215,18 +215,18 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）</a><br>
-  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）</a><br>
-  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
+  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）下载</a><br>
+  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）下载</a><br>
+  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）下载</a><br>
 </details>
 
 ### ShadowsocksR（简称SSR）
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）</a><br>
-  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）</a><br>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）下载</a><br>
+  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）下载</a><br>
+  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR下载（Android）</a><br>
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
@@ -247,32 +247,32 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
   <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损下载</a><br>
-  <a href="https://474b.com/file/25713053-442341369">4、音乐间谍重制版</a><br>
+  <a href="https://474b.com/file/25713053-442341369">4、音乐间谍重制版下载</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">5、草榴官网</a><br>
   <a href="https://474b.com/file/25713053-440658806">6、四十四个油猴脚本下载</a><br>
 </details>
 
 <details>
   <summary>Android</summary>
-  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视</a><br>
-  <a href="https://www.wolong.tv">2、卧龙影视</a>    邀请码：WL345597<br>
-  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视</a><br>
-  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视</a><br>
-  <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版</a><br>
-  <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版</a><br>
-  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版，支持无损</a><br>
-  <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版</a><br>
-  <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP</a><br>
+  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视官网</a><br>
+  <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
+  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
+  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
+  <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版下载，支持无损</a><br>
+  <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版下载</a><br>
+  <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP下载</a><br>
   <a href="https://aff.91porn005.me/aff-afeFw">10、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
 </details>
 
 <details>
   <summary>iOS+Mac</summary>
-  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视</a><br>
-  <a href="https://www.wolong.tv">2、卧龙影视</a>    邀请码：WL345597<br>
-  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视</a><br>
-  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视</a><br>
-  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版</a><br>
+  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视官网</a><br>
+  <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
+  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
+  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
+  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版下载</a><br>
   <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
   <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
