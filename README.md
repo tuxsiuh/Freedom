@@ -182,6 +182,15 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
 </details>
 
+### SSTAP
+
+<details>
+  <summary>详情</summary>
+  真正的全局代理工具sstap，通过专属虚拟网卡，实现系统内所有程序全部走代理<br>
+  <img src="https://www.nsaimg.com/2020/05/08/b194bd8313cbb.jpg" alt="SSTAP">
+  <a href="https://474b.com/file/25713053-442234826">Netch下载</a><br>
+</details>
+
 ### Pharos Pro
 
 <details>
@@ -211,7 +220,6 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>Windows</summary>
-  <a href="https://474b.com/file/25713053-442234826">1、真正的全局代理工具sstap</a><br>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">2、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">3、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
   <a href="https://474b.com/file/25713053-442341364">4、酷我音乐豪华破解版，支持无损下载</a><br>
