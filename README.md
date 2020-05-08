@@ -120,7 +120,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）</a><br>
   <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
 </details>
+
 ## ShadowsocksR（简称SSR）
+
 <details>
   <summary>详情</summary>
   <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）</a><br>
