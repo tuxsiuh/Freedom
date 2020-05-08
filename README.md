@@ -186,8 +186,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  真正的全局代理工具sstap，通过专属虚拟网卡，实现系统内所有程序全部走代理<br>
-  <img src="https://www.nsaimg.com/2020/05/08/b194bd8313cbb.jpg" alt="SSTAP">
+  真正的全局代理工具sstap，通过专属虚拟网卡，真正实现系统内所有程序全部走代理<br>
+  <img src="https://www.nsaimg.com/2020/05/08/98abce621e6c5.jpg" alt="SSTAP">
+  <img src="https://www.nsaimg.com/2020/05/08/6a7fd9ec22033.jpg" alt="SSTAP">
   <a href="https://474b.com/file/25713053-442234826">Netch下载</a><br>
 </details>
 
