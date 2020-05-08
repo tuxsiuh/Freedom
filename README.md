@@ -119,12 +119,12 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   支持VMESS协议的图形界面工具挺多的，下面给大家列举几个常用的<br>
   <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载</a>，V2rayN用的人挺多的，但好多人不知道，V2rayN要 
-  想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下图<br>
+  想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下图，顺便附上一个
+  <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
   <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置"><br>
-  附上一个<a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN图文教程。</a><br>
-  <a href="https://github.com/Cenmrev/V2RayW/releases">V2ray的Windows端图形界面工具V2RayW下载</a><br>
+  V2ray的Windows端图形界面工具<a href="https://github.com/Cenmrev/V2RayW/releases">V2RayW下载</a><br>
   V2ray的Mac端图形界面工具<a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX下载</a>、
-  <a href="https://github.com/yanue/V2rayU/releases">、V2ray的Mac端图形界面工具V2RayU下载</a><br>
+  <a href="https://github.com/yanue/V2rayU/releases">V2RayU下载</a><br>
   <a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）下载</a><br>
   <a href="https://www.v2ray.com/">V2ray官方使用手册文档</a><br>
 </details>
@@ -134,10 +134,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>详情</summary>
   clash也是一款不错的代理工具，支持VMESS协议，但不支持ssr。它的衍生版clashR支持ssr、vmess协议。clash想要实现真正的全局代理，除了开启System Proxy
-  外，还需要安装TAP虚拟网卡设备。
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">clash（Win）下载，简称CFW</a><br>
-  <a href="https://docs.cfw.lbyczf.com/">【CFW使用说明书，文档教程】</a><br>
-  <a href="https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/zh_CN/v2ray/clash-for-windows-setup-guide.md">【CFW图文教程】</a> 
+  外，还需要安装TAP虚拟网卡设备。<br>
+  clash的Windows客户端叫做clash For Windows，简称CFW，<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">CFW下
+  载。</a>给大家附上CFW的<a href="https://docs.cfw.lbyczf.com/">【文档教程】</a>和
+  <a href="https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/zh_CN/v2ray/clash-for-windows-setup-guide.md">【图文教程】</a> 
   <br>
   <a href="https://github.com/yichengchen/clashX/releases">clash（Mac）下载</a><br>
   <a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a><br>
