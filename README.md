@@ -112,6 +112,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
+`以下整理的工具大多数提供的是GitHub下载地址`<br>
+`测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入https://www.ipip.net/ip.html和https://ip.cn/，如果显示的IP地址是你所在地的IP，那么你还没实现真正的全局代理`
 ### V2ray（简称V2）
 
 <details>
@@ -190,7 +192,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、
   Shadowsocks、VMess 等多种代理协议。<br>
-  <a href="https://github.com/mellow-io/mellow/releases">Mellow[Windows、macOS和Linux安装文件下载</a><br>
+  <a href="https://github.com/mellow-io/mellow/releases">Mellow安装文件下载(Win+Mac+Linux)</a><br>
 </details>
 
 ### Pharos Pro
