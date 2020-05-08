@@ -136,6 +136,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>详情</summary>
   <a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN（Win）</a><br>
+  V2rayN的真正全局代理在参数设置里修改，具体看下图<br>
+  <img src="https://www.nsaimg.com/2020/05/08/8f8ead382e671.jpg" alt="V2ray全局设置">
   <a href="https://github.com/Cenmrev/V2RayW/releases">V2ray的Windows端图形界面工具V2RayW</a><br>
   <a href="https://github.com/Cenmrev/V2RayX/releases">V2ray的Mac端图形界面工具V2RayX</a><br>
   <a href="https://github.com/yanue/V2rayU/releases">V2ray的Mac端图形界面工具V2RayU</a><br>
@@ -178,15 +180,24 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录以专门获取其进程名   称实现分程序代理。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess协议。<br>
+  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录以专门获取其进程名   称真正实现分应用代理。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess协议。<br>
   <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
+  <video width="320" height="240" controls>
+   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/mp4">
+   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/ogg">
+   <source src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" type="video/webm">
+   <object data="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" width="320" height="240">
+    <embed src="https://www.youtube.com/watch?v=m_4pa5baUm4&t=308s" width="320" height="240">
+   </object>
+  </video>
 </details>
 
 ### SSTAP
 
 <details>
   <summary>详情</summary>
-  真正的全局代理工具sstap，通过专属虚拟网卡，真正实现系统内所有程序全部走代理<br>
+  真正的全局代理工具sstap，虽然也是游戏加速器，但功能非常实用，通过专属虚拟网卡，真正实现系统内所有程序全部走代理，还可以根据自己需求选择内置代理
+  DNS，让科学上网速度更快，安全性更高，具体见下图<br>
   <img src="https://www.nsaimg.com/2020/05/08/98abce621e6c5.jpg" alt="SSTAP">
   <img src="https://www.nsaimg.com/2020/05/08/6a7fd9ec22033.jpg" alt="SSTAP">
   <a href="https://474b.com/file/25713053-442234826">Netch下载</a><br>
