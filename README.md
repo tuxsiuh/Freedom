@@ -113,7 +113,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # 四、主流科学上网工具下载(包含Win、Mac、Android三大平台)
-###### Shadowsocks（简称SS）
+### Shadowsocks（简称SS）
 
 <details>
   <summary>详情</summary>
@@ -122,7 +122,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）</a><br>
 </details>
 
-###### ShadowsocksR（简称SSR）
+### ShadowsocksR（简称SSR）
 
 <details>
   <summary>详情</summary>
@@ -131,7 +131,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）</a><br>
 </details>
 
-###### V2ray（简称V2）
+### V2ray（简称V2）
 
 <details>
   <summary>详情</summary>
@@ -143,7 +143,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.v2ray.com/">V2ray官方使用手册V2RayU</a><br>
 </details>
 
-###### clash
+### clash
 
 <details>
   <summary>详情</summary>
@@ -155,7 +155,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
 </details>
 
-###### Trojan
+### Trojan
 
 <details>
   <summary>详情</summary>
@@ -165,7 +165,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">Trojan服务客户端设置教程索引</a><br>
 </details>
 
-###### Mellow
+### Mellow
 
 <details>
   <summary>详情</summary>
@@ -174,7 +174,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/mellow-io/mellow/releases">Mellow[Windows、macOS和Linux安装文件下载</a><br>
 </details>
 
-## Netch
+### Netch
 
 <details>
   <summary>详情</summary>
@@ -182,7 +182,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
 </details>
 
-## Pharos Pro
+### Pharos Pro
 
 <details>
   <summary>详情</summary>
@@ -190,7 +190,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   Pharos Pro(iOS)，登录非大陆AppleID下载。
 </details>
 
-## shadowrocket
+### shadowrocket
 
 <details>
   <summary>详情</summary>
