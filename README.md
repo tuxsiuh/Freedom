@@ -249,7 +249,6 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
   <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损下载（5月8日更新）</a><br>
-  <a href="https://474b.com/file/25713053-442341369">4、音乐间谍重制版下载（5月8日更新）</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">5、草榴官网</a><br>
   <a href="https://474b.com/file/25713053-440658806">6、四十四个油猴脚本下载</a><br>
 </details>
