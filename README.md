@@ -22,7 +22,7 @@
 * <a id="h4" href="#c4">四、主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
   * <a id="h4.1" href="#c4.1">V2ray(含官方使用手册) </a> <br>
   * <a id="h4.2" href="#c4.2">clash(含CFW使用说明书) </a> <br>
-    * <a id="h4.2.1" href="#c4.2.1">ClashR汉化版，支持SSR和V2订阅 </a> <br>
+    * <a id="h4.2.1" href="#c4.2">ClashR汉化版，支持SSR和V2订阅 </a> <br>
   * <a id="h4.3" href="#c4.3">Trojan </a> <br> 
   * <a id="h4.4" href="#c4.4">SSTAP </a> <br>
   * <a id="h4.5" href="#c4.5">Netch(Win) </a> <br>
@@ -110,7 +110,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ***
 
-# <a id="c4" href="#h4">主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
+# <a id="c4" href="#h4">四、主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
 `以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看`<br>
 `测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入` https://www.ipip.net/ip.html `或` https://ip.cn/ `如果显示的IP地址是你所在地的IP，那么你还没实现真正的全局代理`
 ### <a id="c4.1" href="#h4.1">V2ray（简称V2）</a> <br>
