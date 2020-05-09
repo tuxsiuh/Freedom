@@ -43,11 +43,11 @@
 ***
 # <a id="c2" href="#h2">二、科学上网 </a> <br>
 ## <a id="c2.1" href="#h2.1">1、没落的“VPN” </a> <br>
-#### <a id="c2.1.1" href="#h2.1.1">1.1、什么是VPN </a> <br>
+### <a id="c2.1.1" href="#h2.1.1">1.1、什么是VPN </a> <br>
 VPN全称“虚拟私人网络（Virtual Private Network）”，VPN是一个统称。VPN是一种加密通讯技术，它被设计出来的目的是数据传输安全和网络匿名。所以它不是为了翻墙而生的，维基百科里关于VPN的介绍，说它的特殊使用才是翻墙。它的出现远早于GFW。
 ![VPN](https://www.louimg.com/u/20200312/15453995.png "VPN的维基介绍")
 GFW机制加上劳动人民的无穷智慧，促使聪慧的劳动人民开始用VPN连接外国网络实现翻墙，随着使用人数的激增和网络环境的发展，商业化的一键VPN也逐渐成熟，一些免费VPN和付费VPN就这样诞生了。<br>[回到顶部](#readme)
-#### <a id="c2.1.2" href="#h2.1.2">1.2、VPN现状 </a> <br>
+### <a id="c2.1.2" href="#h2.1.2">1.2、VPN现状 </a> <br>
 使用VPN，不足之处在于数据分流不灵活，会将开启了VPN的设备的所有数据流量全部导向至VPN服务器上；另外如果VPN服务器上有流量监视软件运行，那么用户所传输的数据将有信息安全威胁；进一步来说，由于VPN设计的初衷并不是用于翻墙，因此数据流量的特征非常明显，容易引起审查机构注意，导致被封。所以，VPN这种翻墙方式基本已经没落了。但是市场上还是有一些一键VPN软件，它们背后的原理其实已经背离了VPN的真正原理，这些一键VPN其实就是把一些机场节点融合到了自己的APP，所以现在好多得VPN其实也不算真正的VPN了。至于免费的VPN，由于用户人数与流量众多，常会暴露出了公共网络服务的特质，所以经常会被封，而且VPN也存在后台钓鱼的风险，虽然可能现在这种情况好多了（谁知道呢），但是之前毕竟存在过，所以本人主观上严重不建议长期使用这种一键VPN软件。<br>
 VPN作为过去很长一段时间最主流最热门最常用最为人所知的翻墙手段，已然成为翻墙的代名词。即便是VPN已不再常用的今天，当人们谈及翻墙的时候，说得最多的仍是：“你有什么好用的vpn吗？”<br>
 [回到顶部](#readme)<br>
@@ -113,7 +113,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 # <a id="c4" href="#h4">四、主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
 `以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看`<br>
 `测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入` https://www.ipip.net/ip.html `或` https://ip.cn/ `如果显示的IP地址是你所在地的IP，那么你还没实现真正的全局代理`
-### <a id="c4.1" href="#h4.1">1、V2ray（简称V2）</a> <br>
+## <a id="c4.1" href="#h4.1">1、V2ray（简称V2）</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -131,7 +131,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   5、<a href="https://www.v2ray.com/">V2ray官方使用手册文档</a><br>
 </details>
 
-### <a id="c4.2" href="#h4.2">2、Clash</a> <br>
+## <a id="c4.2" href="#h4.2">2、Clash</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -148,7 +148,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   5、<a href="https://docs.nameless13.com/shr/">ClashR各平台相关教程</a><br>
 </details>
 
-### <a id="c4.3" href="#h4.3">3、Trojan</a> <br>
+## <a id="c4.3" href="#h4.3">3、Trojan</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -161,7 +161,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   4、<a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
 </details>
 
-### <a id="c4.4" href="#h4.4">4、Sstap</a> <br>
+## <a id="c4.4" href="#h4.4">4、Sstap</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -172,7 +172,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、<a href="https://474b.com/file/25713053-442234826">SSTAP下载</a><br>
 </details>
 
-### <a id="c4.5" href="#h4.5">5、Netch</a> <br>
+## <a id="c4.5" href="#h4.5">5、Netch</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -187,7 +187,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 [回到顶部](#readme)
 
-### <a id="c4.6" href="#h4.6">6、Mellow</a> <br>
+## <a id="c4.6" href="#h4.6">6、Mellow</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -196,7 +196,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、<a href="https://github.com/mellow-io/mellow/releases">Mellow安装文件下载(Win+Mac+Linux)</a><br>
 </details>
 
-### <a id="c4.7" href="#h4.7">7、Pharos Pro</a> <br>
+## <a id="c4.7" href="#h4.7">7、Pharos Pro</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -204,7 +204,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、Pharos Pro(iOS)，登录非大陆AppleID下载，不会的可加电报群咨询我
 </details>
 
-### <a id="c4.8" href="#h4.8">8、shadowrocket</a> <br>
+## <a id="c4.8" href="#h4.8">8、shadowrocket</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -212,7 +212,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、<a href="https://blog.minirplus.com/14472/">ShadowRocket分组、规则自动切换节点</a><br>
 </details>
 
-### <a id="c4.9" href="#h4.9">9、Shadowsocks（简称SS）</a> <br>
+## <a id="c4.9" href="#h4.9">9、Shadowsocks（简称SS）</a> <br>
 
 <details>
   <summary>详情</summary>
@@ -221,7 +221,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   3、<a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）下载</a><br>
 </details>
 
-### <a id="c4.10" href="#h4.10">10、ShadowsocksR（简称SSR）</a> <br>
+## <a id="c4.10" href="#h4.10">10、ShadowsocksR（简称SSR）</a> <br>
 
 <details>
   <summary>详情</summary>
