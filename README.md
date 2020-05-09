@@ -1,6 +1,6 @@
 1、本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。<br>
 2、点击目录会跳转到相应内容，正文中点标题也可快速返回目录位置。点“回到顶部”快速回到文章开头<br>
-3、`2020年5月8日更新：新增tiktok最新破解版（iOS+Android）、酷我音乐破解版（Win+Android）、音乐间谍重制版（Windows）、spotify全功能破解版（Android）`<br>
+3、`2020年5月8日更新：新增tiktok最新破解版（iOS+Android）、酷我音乐破解版（Win）、spotify全功能破解版（Android）`<br>
 * <a id="h1" href="#c1">一、国内网络基本了解 </a> <br>
 * <a id="h2" href="#c2">二、科学上网 </a> <br>
   * <a id="h2.1" href="#c2.1">No1、没落的“VPN” </a> <br>
@@ -261,10 +261,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
   <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版下载</a><br>
   <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版下载（5月8日更新）</a><br>
-  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版下载，支持无损播放和下载</a><br>
-  <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
-  <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP下载</a><br>
-  <a href="https://aff.91porn005.me/aff-afeFw">10、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
+  <a href="https://474b.com/file/25713053-442341313">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
+  <a href="https://github.com/yuuwill/1024app-android/releases">8、草榴APP下载</a><br>
+  <a href="https://aff.91porn005.me/aff-afeFw">9、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
 </details>
 
 <details>
