@@ -125,8 +125,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
   <img src="https://www.nsaimg.com/2020/05/08/7843e43ebdf7d.jpg" alt="V2ray全局设置"><br>
   <img src="https://www.nsaimg.com/2020/05/08/a4f4786c141ee.jpg" alt="V2ray全局设置"><br>
-  2、 V2ray的Windows端图形界面工具<a href="https://github.com/Cenmrev/V2RayW/releases">V2RayW下载</a><br>
-  3、 V2ray的Mac端图形界面工具<a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX下载</a>、
+  2、V2ray的Windows端图形界面工具<a href="https://github.com/Cenmrev/V2RayW/releases">V2RayW下载</a><br>
+  3、V2ray的Mac端图形界面工具<a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX下载</a>、
   <a href="https://github.com/yanue/V2rayU/releases">V2RayU下载</a><br>
   4、<a href="https://github.com/2dust/v2rayNG/releases">V2ray（Android）下载</a><br>
   5、<a href="https://www.v2ray.com/">V2ray官方使用手册文档</a><br>
@@ -146,7 +146,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   3、<a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a>、
   <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en_US">Clash in Google Play安装</a><br>
   4、<a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
-  5、<a href="https://docs.nameless13.com/shr/">CLASHR各平台相关教程</a><br>
+  5、<a href="https://docs.nameless13.com/shr/">ClashR各平台相关教程</a><br>
 </details>
 
 ### Trojan
@@ -166,24 +166,24 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  真正的全局代理工具sstap，虽然是游戏加速器，但功能非常实用，通过专属虚拟网卡，真正实现系统内所有程序全部走代理，还可以根据自己需求选择内置代理
+  1、真正的全局代理工具sstap，虽然是游戏加速器，但功能非常实用，通过专属虚拟网卡，真正实现系统内所有程序全部走代理，还可以根据自己需求选择内置代理
   DNS，让科学上网速度更快，安全性更高，具体见下图<br>
   <img src="https://www.nsaimg.com/2020/05/08/98abce621e6c5.jpg" alt="SSTAP">
   <img src="https://www.nsaimg.com/2020/05/08/6a7fd9ec22033.jpg" alt="SSTAP">
-  <a href="https://474b.com/file/25713053-442234826">SSTAP下载</a><br>
+  2、<a href="https://474b.com/file/25713053-442234826">SSTAP下载</a><br>
 </details>
 
 ### Netch
 
 <details>
   <summary>详情</summary>
-  Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录，来专门获取其进程
+  1、Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，可以扫描需要代理的程序的安装目录，来专门获取其进程
   名称，从而实现真正分应用代理。 Netch也可以实现 SSTap那样的全局 TUN/TAP 代理。Netch现在支持Socks5，Shadowsocks，ShadowsocksR，VMess、Trojan协
   议，也是目前为数不多的几乎支持所有协议的工具。<br>
   <img src="https://www.nsaimg.com/2020/05/09/86fba7f8b2272.jpg" alt="netch">
   <img src="https://www.nsaimg.com/2020/05/09/39bc0a5b907f3.jpg" alt="netch">
   <img src="https://www.nsaimg.com/2020/05/09/3bb66a8cf22a7.jpg" alt="netch">
-  <a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
+  2、<a href="https://github.com/NetchX/Netch/releases">Netch下载</a><br>
 </details>
 
 [回到顶部](#readme)
@@ -192,43 +192,43 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>详情</summary>
-  Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、
+  1、Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、
   Shadowsocks、VMess 等多种代理协议。<br>
-  <a href="https://github.com/mellow-io/mellow/releases">Mellow安装文件下载(Win+Mac+Linux)</a><br>
+  2、<a href="https://github.com/mellow-io/mellow/releases">Mellow安装文件下载(Win+Mac+Linux)</a><br>
 </details>
 
 ### Pharos Pro
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/PharosVip/Pharos-Android-Test/releases">Pharos Pro(Android)下载</a><br>
-  Pharos Pro(iOS)，登录非大陆AppleID下载。
+  1、<a href="https://github.com/PharosVip/Pharos-Android-Test/releases">Pharos Pro(Android)下载</a><br>
+  2、Pharos Pro(iOS)，登录非大陆AppleID下载，不会的可加电报群咨询我
 </details>
 
 ### shadowrocket
 
 <details>
   <summary>详情</summary>
-  <a href="http://laob.me/2300/">ShadowRocket基础教程</a><br>
-  <a href="https://blog.minirplus.com/14472/">ShadowRocket分组、规则自动切换节点</a><br>
+  1、<a href="http://laob.me/2300/">ShadowRocket基础教程</a><br>
+  2、<a href="https://blog.minirplus.com/14472/">ShadowRocket分组、规则自动切换节点</a><br>
 </details>
 
 ### Shadowsocks（简称SS）
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）下载</a><br>
-  <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）下载</a><br>
-  <a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）下载</a><br>
+  1、<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">Shadowsocks（Win）下载</a><br>
+  2、<a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/">Shadowsocks（Mac）下载</a><br>
+  3、<a href="https://github.com/shadowsocks/shadowsocks-android/releases">Shadowsocks（Android）下载</a><br>
 </details>
 
 ### ShadowsocksR（简称SSR）
 
 <details>
   <summary>详情</summary>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）下载</a><br>
-  <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）下载</a><br>
-  <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR下载（Android）</a><br>
+  1、<a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）下载</a><br>
+  2、<a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）下载</a><br>
+  3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR下载（Android）</a><br>
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
