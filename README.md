@@ -157,7 +157,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   Qt5(Win+Mac+Linux)下载</a>，TrojanQt5支持一键订阅导入，只要你有Trojan机场订阅链接，即可一次性导入所有节点。工具界面如下图：<br>
   <img src="https://www.nsaimg.com/2020/05/08/7e444c1ec6dfb.png" alt="Trojan工具"><br>
   2、安卓端目前支持Trojan协议的工具<a href="https://github.com/trojan-gfw/igniter/releases">igniter下载</a><br>
-  3、喜欢用黑屏命令风格的伙伴可下载。<a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具
+  3、喜欢用黑屏命令风格的伙伴可下载<a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具
   </a><br>
   4、<a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
 </details>
