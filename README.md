@@ -248,8 +248,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>Windows</summary>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
-  <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损下载</a><br>
-  <a href="https://474b.com/file/25713053-442341369">4、音乐间谍重制版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损下载（5月8日更新）</a><br>
+  <a href="https://474b.com/file/25713053-442341369">4、音乐间谍重制版下载（5月8日更新）</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">5、草榴官网</a><br>
   <a href="https://474b.com/file/25713053-440658806">6、四十四个油猴脚本下载</a><br>
 </details>
@@ -261,7 +261,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
   <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版下载</a><br>
-  <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版下载（5月8日更新）</a><br>
   <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版下载，支持无损</a><br>
   <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版下载</a><br>
   <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP下载</a><br>
@@ -274,7 +274,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版下载（5月8日更新）</a><br>
   <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
   <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
