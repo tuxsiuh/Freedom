@@ -247,8 +247,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>Windows</summary>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
-  <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目利器，自带直播源）</a><br>
-  <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损下载（5月8日更新）</a><br>
+  <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目的利器，自带直播源）</a><br>
+  <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损播放和下载（5月8日更新）</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">4、草榴官网</a><br>
   <a href="https://474b.com/file/25713053-440658806">5、四十四个油猴脚本下载</a><br>
 </details>
@@ -261,8 +261,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
   <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版下载</a><br>
   <a href="https://474b.com/file/25713053-442341034">6、TikTok破解版下载（5月8日更新）</a><br>
-  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版下载，支持无损</a><br>
-  <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版下载</a><br>
+  <a href="https://474b.com/file/25713053-442341207">7、酷我音乐破解版下载，支持无损播放和下载</a><br>
+  <a href="https://474b.com/file/25713053-442341313">8、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
   <a href="https://github.com/yuuwill/1024app-android/releases">9、草榴APP下载</a><br>
   <a href="https://aff.91porn005.me/aff-afeFw">10、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
 </details>
