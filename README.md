@@ -229,7 +229,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   1、<a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）下载</a><br>
   2、<a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）下载</a><br>
-  3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR下载（Android）</a><br>
+  3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）下载</a><br>
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
