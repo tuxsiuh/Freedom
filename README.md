@@ -106,14 +106,15 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://t.co/OGzuQ1kAL3?amp=1)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
   * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有1M-2M不等。<br>
   * 当然[STC](https://t.co/OGzuQ1kAL3?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
+  
 **以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。**
   
 [回到顶部](#readme)
 ***
 
 # <a id="c4" href="#h4">四、主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
-`以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看`<br>
-`测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入` https://www.ipip.net/ip.html `或` https://ip.cn/ `如果显示的IP地址是你所在地的IP，那么你还没实现真正的全局代理`
+> 以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看
+
 ## <a id="c4.1" href="#h4.1">1、V2ray（简称V2）</a> <br>
 
 <details>
@@ -228,7 +229,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>详情</summary>
   1、<a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">ShadowsocksR（Win）下载</a><br>
   2、<a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksR（Mac）下载</a><br>
-  3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR下载（Android）</a><br>
+  3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）下载</a><br>
 </details>
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
@@ -238,6 +239,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 **有些资源需要提取码，加电报群即可获取提取码**
+* [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
+](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
