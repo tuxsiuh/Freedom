@@ -112,9 +112,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # <a id="c4" href="#h4">四、主流科学上网工具下载(包含Win、Mac、Android三大平台) </a> <br>
-`以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看`<br>
-`测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入` https://www.ipip.net/ip.html `测试结果如下图效果`<br>
-<img src="https://www.nsaimg.com/2020/05/12/1519374c3bbee.jpg" alt="全局设置效果"><br>
+> 以下整理的工具大多都有详细的图文教程和GitHub下载地址，点详情可查看<br>
+> 测试是否开启真正的全局代理的小方法，可供参考。打开你代理软件的全局代理模式，然后进入 https://www.ipip.net/ip.html ,测试结果如下图效果<br>
+> <img src="https://www.nsaimg.com/2020/05/12/1519374c3bbee.jpg" alt="全局设置效果"><br>
 
 ## <a id="c4.1" href="#h4.1">1、V2ray（简称V2）</a> <br>
 
