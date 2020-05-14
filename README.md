@@ -250,7 +250,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
 
 <details>
-  <summary>Windows</summary>
+  <summary><h3><Windows/h3></summary>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目的利器，自带直播源）</a><br>
   <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损播放和下载（5月8日更新）</a><br>
@@ -259,7 +259,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 </details>
 
 <details>
-  <summary>Android</summary>
+  <summary># Android</summary>
   <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视官网</a><br>
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
