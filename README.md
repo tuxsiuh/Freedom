@@ -69,9 +69,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   * 用户 -> ss、ssr等协议 -> 公网传输穿过GFW -> 国外服务器<br>
 大多数机场节点都是这种，尤其是一些免费节点。此方式成本低，因为是协议直接过GFW，虽然协议本身也做了技术处理，但大流量还是很容易被GFW识别，这也就是为什么有的机场节点经常会出现不稳定现象，或者干脆就被封不能用了。而且公网传输，使用人多，流量拥挤就会速度变慢。<br>
 好点的机场主可能会单独购买一条线路，这也就是我们说的独享线路机场，速度还稍微快点。有些功利性的机场主会租一条线路，意味着这一条线路同时被租给N个机场，这是我们常说的共享线路机场，速度和稳定性就得碰运气了。<br>[回到顶部](#readme)
-* 公网中转（BGP中转）<br>
-  * 用户 -> ss、ssr等协议 -> 国内中转服务器 -> 公网穿过GFW ->  国外服务器<br>
-中转服务器到GFW这一段，一般会使用一些隧道协议，以实现负载均衡、高可用、防止被墙等效果，且对传输速度也做了优化。但是加BGP中转是比较昂贵的，所以能发现机场中带BGP中转的节点价格会比普通节点的价格贵。
+* BGP中转<br>
+  * 用户 -> ss、ssr等协议 -> 国内中转服务器 -> 公网或内网穿过GFW ->  国外服务器<br>
+中转服务器到GFW这一段，一般会使用一些隧道协议，以实现负载均衡、高可用、防止被墙等效果，且对传输速度也做了优化，而且多数机场还是公网过GFW。加BGP中转是比较昂贵的，所以能发现机场中带BGP中转的节点价格会比普通节点的价格贵一点。
 * 专线内网中转（IPLC）<br>
   * 用户 -> ss、ssr等协议 -> 专线服务器A（自带中转功能）-> 内网传输 -> 国外专线服务器B<br>
 这种方式你会发现，少了一个环节，就是它没有过GFW，就是传说中的不会被墙，因为它压根就不过墙，而且是点对点直接传输，速度也是最快的。但是加IPLC比加BGP的价格更贵，所以你会发现，机场节点中带IPLC的也是卖的最贵的。目前国内大多的IPLC线都是采用的阿里内网线路，严格来说，不能算的上真正的IPLC。也有真正的IPLC线路，比较少，从商人角度来说，除非能回本儿，否则搞真正的IPLC是不划算的。<br>[回到顶部](#readme)
@@ -158,7 +158,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   Qt5(Win+Mac+Linux)下载</a>，TrojanQt5支持一键订阅导入，只要你有Trojan机场订阅链接，即可一次性导入所有节点。工具界面如下图：<br>
   <img src="https://www.nsaimg.com/2020/05/08/7e444c1ec6dfb.png" alt="Trojan工具"><br>
   2、安卓端目前支持Trojan协议的工具<a href="https://github.com/trojan-gfw/igniter/releases">igniter下载</a><br>
-  3、喜欢用黑屏命令风格的伙伴可下载<a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具
+  3、<a href="https://trojan-tutor.github.io/2019/04/10/p41.html">自建梯子教程--Trojan版本</a><br>
+  4、喜欢用黑屏命令风格的伙伴可下载<a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具
   </a><br>
   4、<a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
 </details>
@@ -232,20 +233,24 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   3、<a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">ShadowsocksR（Android）下载</a><br>
 </details>
 
+***
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买，不会的加群找我`
 
 [回到顶部](#readme)
 ***
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
-**有些资源需要提取码，加电报群即可获取提取码**
+## <a id="c5.1" href="#h5">实用资源</a> <br>
 * [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
 ](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
+* 在各种科学上网工具（ssr、v2ray、clash、surge、Trojan...等）的订阅格式之间进行转换的工具subconverter，转换后自带神机规则。更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
+
+## <a id="c5.2" href="#h5">实用工具</a> <br>
 
 <details>
   <summary>Windows</summary>
@@ -281,7 +286,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   
 </details>
 
-# 电报交流群：https://t.me/sxcool1024g
+# 有些资源需要提取码，加电报群即可获取提取码,电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
 
 
