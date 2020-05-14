@@ -239,7 +239,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
-**有些资源需要提取码，加电报群即可获取提取码**
+## 资源
 * [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
 ](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
 * 在各种科学上网工具（ssr、v2ray、clash、surge、Trojan...等）的订阅格式之间进行转换的工具subconverter，转换后自带神机规则。更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
@@ -248,6 +248,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
+
+## 实用工具
 
 <details>
   <summary>Windows</summary>
@@ -283,7 +285,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   
 </details>
 
-# 电报交流群：https://t.me/sxcool1024g
+# 有些资源需要提取码，加电报群即可获取提取码,电报交流群：https://t.me/sxcool1024g
 [回到顶部](#readme)
 
 
