@@ -239,7 +239,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ***
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
-## <a id="c5.1" href="#h5.1">实用资源</a> <br>
+## <a id="c5.1" href="#h5">实用资源</a> <br>
 * [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
 ](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
 * 在各种科学上网工具（ssr、v2ray、clash、surge、Trojan...等）的订阅格式之间进行转换的工具subconverter，转换后自带神机规则。更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
@@ -249,7 +249,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
 
-## <a id="c5.2" href="#h5.2">实用工具</a> <br>
+## <a id="c5.2" href="#h5">实用工具</a> <br>
 
 <details>
   <summary>Windows</summary>
