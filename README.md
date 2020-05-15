@@ -239,8 +239,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
-* [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
-](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
+* [google voice注册详细教程，同时分享如何免费获取美国电话号码的方法](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
 * 转换节点链接和订阅链接的工具，转换后自带神机规则，更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
 * [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
