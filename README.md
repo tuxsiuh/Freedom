@@ -95,7 +95,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ![stc订阅](https://www.nsaimg.com/2020/04/23/29e01443b25ec.jpg "stc订阅")
 [回到顶部](#readme)
 ## <a id="c3.2" href="#h3.2">2、Trojan机场 </a> <br>
-[Trojan机场官网](https://t.co/FEE38PDhE6?amp=1)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,该机场如果遇到重大特殊情况无法使用，后期还会给客户进行降价或者延迟补偿，感觉也是从客户角度出发在考虑做更好的服务。<br>
+[Trojan机场官网](https://t.co/FEE38PDhE6?amp=1)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升。该机场如果遇到重大特殊情况无法使用，后期还会给客户进行降价或者延迟补偿，感觉也是从客户角度出发在考虑做更好的服务。<br>
 **Trojan机场支持订阅的工具如下图**
 ![Trojan机场](https://www.nsaimg.com/2020/04/23/fb6508b7ece3e.jpg "Trojan机场")<br>
 [回到顶部](#readme)
