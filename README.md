@@ -241,7 +241,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
 * [google voice注册详细教程，同时分享如何免费获取美国电话号码的方法](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
 * 转换节点链接和订阅链接的工具，转换后自带神机规则，更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
-* [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
+* [免费撸谷歌云300$搭建Trojan的全程记录、如何避免谷歌云试用到期被扣费、谷歌云到期后如何继续使用](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
