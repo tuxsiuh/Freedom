@@ -277,9 +277,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版下载（5月8日更新）</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">5、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">6、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
 </details>
 
