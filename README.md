@@ -95,9 +95,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ![stc订阅](https://www.nsaimg.com/2020/04/23/29e01443b25ec.jpg "stc订阅")
 [回到顶部](#readme)
 ## <a id="c3.2" href="#h3.2">2、Trojan机场 </a> <br>
-[Trojan机场官网](https://t.co/FEE38PDhE6?amp=1)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,下图是该机场在3月21日给客户发的邮件和我的购买账单，从服务升级到补差价，感觉也是从客户角度出发在考虑做更好的服务。<br>
-![Trojan机场](https://www.louimg.com/u/20200323/15163186.jpg "Trojan机场")
-![Trojan机场](https://www.louimg.com/u/20200329/10211993.png "Trojan机场")
+[Trojan机场官网](https://t.co/FEE38PDhE6?amp=1)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升。该机场如果遇到重大特殊情况无法使用，后期还会给客户进行降价或者延时补偿，感觉也是从客户角度出发在考虑做更好的服务。<br>
 **Trojan机场支持订阅的工具如下图**
 ![Trojan机场](https://www.nsaimg.com/2020/04/23/fb6508b7ece3e.jpg "Trojan机场")<br>
 [回到顶部](#readme)
@@ -120,12 +118,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 <details>
   <summary>详情</summary>
   支持VMESS协议的图形界面工具挺多的，下面给大家列举几个常用的<br>
-  1、<a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载</a>，V2rayN用的人挺多的，但好多
-  人不知道，V2rayN要想真正实现全局代理，除了要右键选择“Http代理->开启Http代理，并自动配置系统代理（全局模式）”，还需要在参数设置里进行设置，具体看下
-  图，顺便附上一个
+  1、<a href="https://github.com/2dust/v2rayN/releases">V2ray的Windows端图形界面工具V2RayN下载</a>，顺便附上一个
   <a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B">V2RayN详细图文教程。</a><br>
-  <img src="https://www.nsaimg.com/2020/05/08/7843e43ebdf7d.jpg" alt="V2ray全局设置"><br>
-  <img src="https://www.nsaimg.com/2020/05/08/a4f4786c141ee.jpg" alt="V2ray全局设置"><br>
   2、V2ray的Windows端图形界面工具<a href="https://github.com/Cenmrev/V2RayW/releases">V2RayW下载</a><br>
   3、V2ray的Mac端图形界面工具<a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX下载</a>、
   <a href="https://github.com/yanue/V2rayU/releases">V2RayU下载</a><br>
@@ -161,7 +155,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   3、<a href="https://trojan-tutor.github.io/2019/04/10/p41.html">自建梯子教程--Trojan版本</a><br>
   4、喜欢用黑屏命令风格的伙伴可下载<a href="https://github.com/trojan-gfw/trojan/releases">Trojan的Windows、macOS、Linux三大平台命令行工具
   </a><br>
-  4、<a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
+  5、<a href="https://portal.shadowsocks.nl/knowledgebase/151/Trojan-%E6%9C%8D%E5%8A%A1%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B%E7%B4%A2%E5%BC%95.html">以上Trojan工具的设置教程索引</a><br>
 </details>
 
 ## <a id="c4.4" href="#h4.4">4、Sstap</a> <br>
@@ -241,10 +235,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
-* [google voice注册详细教程，成功率极高。同时分享google voice 稳定付费接码平台和如何免费获取美国电话号码的方法。
-](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
-* 在各种科学上网工具（ssr、v2ray、clash、surge、Trojan...等）的订阅格式之间进行转换的工具subconverter，转换后自带神机规则。更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
-* [免费撸谷歌云300$搭建Trojan的全程记录](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
+* [google voice注册最新教程，同时分享如何免费获取美国电话号码的方法](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
+* 转换节点链接和订阅链接的工具，转换后自带神机规则，更多功能请自行仔细研究。[【subconverter下载】](https://github.com/tindy2013/subconverter/releases)[【subconverter使用教程】](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
+* [免费撸谷歌云300$搭建Trojan的全程记录、如何避免谷歌云试用到期被扣费、谷歌云到期后如何继续使用](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
@@ -280,9 +273,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://474b.com/file/25713053-442341476">5、TikTok苹果版下载（5月8日更新）</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">5、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">6、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
 </details>
 
