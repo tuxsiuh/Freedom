@@ -1,6 +1,6 @@
 1、本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。<br>
 2、点击目录会跳转到相应内容，正文中点标题也可快速返回目录位置。点“回到顶部”快速回到文章开头<br>
-3、`2020年5月8日更新：新增tiktok最新破解版（iOS+Android）、酷我音乐破解版（Win）、spotify全功能破解版（Android）`<br>
+3、`2020.7.19补充Trojan机场改善后的下载截图`<br>
 * <a id="h1" href="#c1">一、国内网络基本了解 </a> <br>
 * <a id="h2" href="#c2">二、科学上网 </a> <br>
   * <a id="h2.1" href="#c2.1">No1、没落的“VPN” </a> <br>
@@ -104,6 +104,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://t.co/OGzuQ1kAL3?amp=1)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
   * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有1M-2M不等。<br>
   * 当然[STC](https://t.co/OGzuQ1kAL3?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
+* 2020.7.19补充，经过近段时间的体验，Trojan机场的速度已经得到了很大的提升，放一张我在telegram下载视频的速度截图。
+![Trojan机场下载速度](https://www.louimg.com/i/?i=u/20200719/17080142.jpg "Trojan机场下载速度")
   
 **以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。**
   
