@@ -240,7 +240,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [某高校图书馆全部馆藏图书扫描PDF，大概20000本左右，共553G](https://545c.com/dir/7823036-11625293-090948#)
 * [书格图书馆全站资源，大小1T ，格式 PDF](https://t.co/EcLG9YyIMn?amp=1)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
-* 综合救援知识图册及书籍，共1366册，大小0.5G，[下载](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)[预览]()
+* [综合救援知识图册及书籍，共1366册，大小0.5G](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)，[预览](https://twitter.com/sxcool1024/status/1287899904862380033?s=20)
 * [免费撸谷歌云300$搭建Trojan的全程记录、如何避免谷歌云试用到期被扣费、谷歌云到期后如何继续使用](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
 * [著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
