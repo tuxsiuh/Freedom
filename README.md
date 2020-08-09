@@ -1,7 +1,8 @@
 1、本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。<br>
 2、点击目录会跳转到相应内容，正文中点标题也可快速返回目录位置。点“回到顶部”快速回到文章开头<br>
-3、`2020.7.26在实用资源模块添加1.5T图书资源`<br>
-`2020.7.28增加综合救援知识图册及书籍，共1366册，大小0.5G`
+3、
+`2020.7.28增加综合救援知识图册及书籍，共1366册，大小0.5G`<br>
+`2020.8.9在实用工具iOS+Mac模块增加号称iOS上永久免费的VPN工具`
 * <a id="h1" href="#c1">一、国内网络基本了解 </a> <br>
 * <a id="h2" href="#c2">二、科学上网 </a> <br>
   * <a id="h2.1" href="#c2.1">No1、没落的“VPN” </a> <br>
@@ -274,12 +275,13 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 <details>
   <summary>iOS+Mac</summary>
-  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">1、小小影视官网</a><br>
-  <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
-  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
-  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">5、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
-  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">6、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1292431731157417989?s=20">1、iOS上号称永久免费的VPN</a><br>
+  <a href="http://www.wangdunwen.com/?inviteCode=ID3WVM">2、小小影视官网</a><br>
+  <a href="https://www.wolong.tv">3、卧龙影视官网</a>    邀请码：WL345597<br>
+  <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">4、南瓜影视官网</a><br>
+  <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">5、冬瓜影视官网</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
+  <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
   
 </details>
 
