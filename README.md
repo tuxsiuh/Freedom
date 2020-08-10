@@ -238,6 +238,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
+* [一个很有趣的可免费获取比特币的网站，每小时获取一次，每次最高可获得200$的比特币，而且获得的币可直接提现](https://freebitco.in/?r=38664364)
 * [某高校图书馆全部馆藏图书扫描PDF，大概20000本左右，共553G](https://545c.com/dir/7823036-11625293-090948#)
 * [书格图书馆全站资源，大小1T ，格式 PDF](https://t.co/EcLG9YyIMn?amp=1)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
