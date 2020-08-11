@@ -11,7 +11,7 @@
     * <a id="h2.2.1" href="#c2.2.1">什么是机场 </a>
     * <a id="h2.2.2" href="#c2.2.2">机场的选择 </a>
       * <a id="h2.2.2.1" href="#c2.2.2.1">技术层面 </a>
-        * <a id="h2.2.2.1.1" href="#c2.2.2.1.1">BGP中转和IPLC的通俗理解 </a>
+        * <a id="h2.2.2.1.1" href="#c2.2.2.1.1">BGP中转和IPLC、IEPL的通俗理解 </a>
       * <a id="h2.2.2.2" href="#c2.2.2.2">主观层面 </a> 
         * <a id="h2.2.2.2.1" href="#c2.2.2.2.1">机场的外观设计 </a> 
         * <a id="h2.2.2.2.2" href="#c2.2.2.2.2">机场电报群观察交流 </a>
@@ -105,10 +105,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## <a id="c3.3" href="#h3.3">3、机场综合使用感受 </a> <br>
 * 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
   * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://t.co/OGzuQ1kAL3?amp=1)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
-  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到5M-10M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有1M-2M不等。<br>
-  * 当然[STC](https://t.co/OGzuQ1kAL3?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
-* 2020.7.19补充，经过近段时间的体验，Trojan机场的速度已经得到了很大的提升，放一张我在telegram下载视频的速度截图如下
+  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到8M-13M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有3M-5M不等。<br>
+    2020.7.19补充，经过近段时间的体验，Trojan机场的速度已经得到了很大的提升，放一张我在telegram下载视频的速度截图如下
 ![Trojan机场下载速度](https://www.nsaimg.com/2020/07/19/71a2aff860e3e.jpg "Trojan机场下载速度")
+  * 当然[STC](https://t.co/OGzuQ1kAL3?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
   
 **以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。**
   
