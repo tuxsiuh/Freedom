@@ -278,6 +278,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://474b.com/file/25713053-442341313">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
   <a href="https://github.com/yuuwill/1024app-android/releases">8、草榴APP下载</a><br>
   <a href="https://aff.91porn005.me/aff-afeFw">9、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
+  <a href="https://sxcool1024.lanzous.com/b00zbog4b">10、七款免费Android VPN</a><br>
 </details>
 
 <details>
