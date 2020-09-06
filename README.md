@@ -150,7 +150,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、<a href="https://github.com/yichengchen/clashX/releases">clash（Mac）下载</a><br>
   3、<a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a>、
   <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en_US">Clash in Google Play安装</a><br>
-  4、<a href="https://474b.com/file/25713053-442345612">ClashR汉化版，支持SSR和V2ray订阅</a><br>
+  4、<a href="https://sxcool1024.lanzous.com/i9zpaji">ClashR汉化版，支持SSR和V2ray订阅</a><br>
   5、<a href="https://docs.nameless13.com/shr/">ClashR各平台相关教程</a><br>
 </details>
 
@@ -176,7 +176,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   DNS，让科学上网速度更快，安全性更高，具体见下图<br>
   <img src="https://www.nsaimg.com/2020/05/08/98abce621e6c5.jpg" alt="SSTAP">
   <img src="https://www.nsaimg.com/2020/05/08/6a7fd9ec22033.jpg" alt="SSTAP">
-  2、<a href="https://474b.com/file/25713053-442234826">SSTAP下载</a><br>
+  2、<a href="https://sxcool1024.lanzous.com/iIvPbge7utg">SSTAP下载</a><br>
 </details>
 
 ## <a id="c4.5" href="#h4.5">5、Netch</a> <br>
@@ -263,9 +263,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>Windows</summary>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目的利器，自带直播源）</a><br>
-  <a href="https://474b.com/file/25713053-442341364">3、酷我音乐豪华破解版，支持无损播放和下载（5月8日更新）</a><br>
   <a href="http://t66y.com/index.php?u=297138&ext=e4669">4、草榴官网</a><br>
-  <a href="https://474b.com/file/25713053-440658806">5、四十四个油猴脚本下载</a><br>
+  <a href="https://sxcool1024.lanzous.com/iS0eMge813c">5、四十四个油猴脚本下载</a><br>
 </details>
 
 <details>
@@ -274,9 +273,9 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://474b.com/file/25713053-442341315">5、短信轰炸机永久使用版下载</a><br>
-  <a href="https://n459.com/file/25713053-455392964">6、TikTok无水印版（7月28日更新）</a><br>
-  <a href="https://474b.com/file/25713053-442341313">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
+  <a href="https://sxcool1024.lanzous.com/sxcool1024">5、短信轰炸机永久使用版下载</a><br>
+  <a href="https://sxcool1024.lanzous.com/ibo0mcj">6、TikTok无水印版（7月28日更新）</a><br>
+  <a href="https://sxcool1024.lanzous.com/iaojang">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
   <a href="https://github.com/yuuwill/1024app-android/releases">8、草榴APP下载</a><br>
   <a href="https://aff.91porn005.me/aff-afeFw">9、91app安装地址，不要通过扫码安装，安装地址复制到手机浏览器打开下载</a><br>
   <a href="https://sxcool1024.lanzous.com/b00zbog4b">10、七款免费Android VPN</a><br>
