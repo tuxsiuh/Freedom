@@ -273,7 +273,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
   <a href="https://sxcool1024.lanzous.com/sxcool1024">5、短信轰炸机永久使用版下载</a><br>
-  <a href="https://sxcool1024.lanzous.com/ibo0mcj">6、TikTok无水印版（7月28日更新）</a><br>
+  <a href="https://download.91porn001.me/aff-afeFw">6、打开复制链接到手机浏览器下载91APP，不要扫码下载</a><br>
   <a href="https://sxcool1024.lanzous.com/iaojang">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
   <a href="https://sxcool1024.lanzous.com/b00zbog4b">8、七款免费Android VPN</a><br>
 </details>
@@ -287,7 +287,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">5、冬瓜影视官网</a><br>
   <a href="https://twitter.com/sxcool1024/status/1236090141606694912?s=20">6、iPhone快捷指令【下载YouTube、Twitter视频】</a><br>
   <a href="https://twitter.com/sxcool1024/status/1249974654325813248?s=20">7、iPhone快捷指令【举牌小人图片生成器】【文字转二维码】</a><br>
-  
+  <a href="https://download.91porn001.me/aff-afeFw">8、打开复制链接到手机浏览器下载91APP，不要扫码下载</a><br>
 </details>
 
 # 有些付费资源及资源的提取码，加电报交流群：https://t.me/sxcool1024g
