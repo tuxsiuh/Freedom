@@ -98,7 +98,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 再说我们个人的翻墙行为，大家要明确自己翻墙的目的，我们翻墙是为了方便我们自己的学习、生活和工作，不是去做一些违反国家法律政策的行为，也不要好奇心很重，去浏览一些明显违规内容，让别人以为你动机不纯，那不找你喝茶找谁。大家要相信现在技术的发达程度，从几亿网民中找出你是分分钟的事儿，除非你与这个互联网世界隔绝。大家有时候看到网上说某某人因为使用某某软件翻墙浏览色情内容被请喝茶这种新闻，其实仔细想，全国有多少人每天通过翻墙浏览色情内容，为什么偏偏那个人被喝茶了，是因为他浏览的量大？是因为他使用的工具不对？是因为机场举报他了？原因你们想吧，所以，翻墙出来后一定注意约束自己的行为。
 # <a id="c3" href="#h3">三、我的机场及使用感受 </a> <br>
 ## <a id="c3.1" href="#h3.1">1、SSR、V2ray机场：STC </a> <br>
-[STC机场官网](https://tinyurl.com/yy3nlvl4)，用了将近一年半时间，我经历了三次机场升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。每次升级都是在大多客户反馈高峰期体验感不好的时候去考虑升级，去扩充升级一些宽带设备，以带来更好的体验感。这也是**我看中的第一点**。毕竟它是从客户角度出发去考虑的，符合我上边说的主观层面判断，所以一直坚持用到现在。<br>
+[STC机场官网](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)，用了将近一年半时间，我经历了三次机场升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。每次升级都是在大多客户反馈高峰期体验感不好的时候去考虑升级，去扩充升级一些宽带设备，以带来更好的体验感。这也是**我看中的第一点**。毕竟它是从客户角度出发去考虑的，符合我上边说的主观层面判断，所以一直坚持用到现在。<br>
 唯一可能不友好的一点就是价格也在随着升级在上涨，我觉得这个也可以理解，毕竟服务成本也在提高。**我看中的第二点**就是：涨价是不针对老客户的，就是你买了之后，不管以后机场涨价多少次，你永远都可用原来的价格去续费。还有，看YouTube4K视频、Netflix等视频网站没有任何问题。<br>
 **我现在用的是STC机场的企业IPLC专线，就是价格有点感人，但好在它给我的体验感对得起这个价格，基础跟进阶的属于一类，都不是IPLC专线，主要差别就是流量的多少；旗舰跟企业属于一类，都是IPLC专线，主要区别也是流量的多少。大家要是准备买的话，建议基础或旗舰二选一，当然你要是土豪，直接上企业那更爽**
 ![STC价格](https://www.nsaimg.com/2020/08/16/d0115be020eb7.jpg "STC价格")<br>
@@ -110,11 +110,11 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ## <a id="c3.3" href="#h3.3">3、机场综合使用感受 </a> <br>
 * 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
-  * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://t.co/OGzuQ1kAL3?amp=1)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
-  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://t.co/OGzuQ1kAL3?amp=1)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到8M-13M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有3M-5M不等。<br>
+  * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
+  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到8M-13M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有3M-5M不等。<br>
     2020.7.19补充，经过近段时间的体验，Trojan机场的速度已经得到了很大的提升，截图是clash的速度统计，如下
 ![Trojan机场下载速度](https://www.nsaimg.com/2020/07/19/71a2aff860e3e.jpg "Trojan机场下载速度")
-  * 当然[STC](https://t.co/OGzuQ1kAL3?amp=1)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://t.co/OGzuQ1kAL3?amp=1)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://t.co/OGzuQ1kAL3?amp=1)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
+  * 当然[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
   
 **以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。**
   
