@@ -60,7 +60,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、Netch、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
 这些工具的统一特点就是：工具自身没有翻墙功能，需要自行在服务端和客户端上部署，优点就是更加安全、速度更快，看似比一键VPN方法“繁琐”，但实际操作非常简单，其中服务端的部署有两种情况：<br>
 第一种是我们自己购买vps部署，这就是人们常说的我自己搭建节点，喜欢折腾的伙伴可以自己去购买vps搭建，网上教程非常多，我自己是在谷歌云搭建了Trojan服务，具体教程本文第五部分有。<br>
-第二种，就是有人替我们部署好了，直接用就可以。这也是目前用的最多的科学上网方式，提供这项服务的就是[机场](https://t.co/OGzuQ1kAL3?amp=1)。<br>
+第二种，就是有人替我们部署好了，直接用就可以。这也是目前用的最多的科学上网方式，提供这项服务的就是[机场](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)。<br>
 服务端部署好后，我们只需将服务器地址、端口这些基本信息添加到我们电脑或手机上的代理工具里，这就是客户端部署，这就实现了科学上网。现在很多工具都支持一键订阅，多数机场也提供了订阅链接，不需要我们手动逐一添加节点。<br>[回到顶部](#readme) 
 ### <a id="c2.2.2" href="#h2.2.2">2.2、机场的选择 </a> <br>
 #### <a id="c2.2.2.1" href="#h2.2.2.1">2.2.1、技术层面 </a> <br>
@@ -104,17 +104,17 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ![STC价格](https://www.nsaimg.com/2020/08/16/d0115be020eb7.jpg "STC价格")<br>
 [回到顶部](#readme)
 ## <a id="c3.2" href="#h3.2">2、Trojan机场 </a> <br>
-[Trojan机场官网](https://t.co/FEE38PDhE6?amp=1)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升。该机场如果遇到重大特殊情况无法使用，后期还会给客户进行降价或者延时补偿，感觉也是从客户角度出发在考虑做更好的服务。<br>
+[Trojan机场官网](https://portal.shadowsocks.nz/aff.php?aff=28409)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升。该机场如果遇到重大特殊情况无法使用，后期还会给客户进行降价或者延时补偿，感觉也是从客户角度出发在考虑做更好的服务。<br>
 **Trojan机场支持订阅的工具如下图**
 ![Trojan机场](https://www.nsaimg.com/2020/04/23/fb6508b7ece3e.jpg "Trojan机场")<br>
 [回到顶部](#readme)
 ## <a id="c3.3" href="#h3.3">3、机场综合使用感受 </a> <br>
 * 我用的移动300M家用宽带，手机套餐免费送的宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：
-  * 在一些晚高峰时段，[Trojan机场](https://t.co/FEE38PDhE6?amp=1)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
-  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到8M-13M不等,但[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的下载速度平均下来只有3M-5M不等。<br>
+  * 在一些晚高峰时段，[Trojan机场](https://portal.shadowsocks.nz/aff.php?aff=28409)看YouTube4K偶尔会出现卡顿，但看1080P还是没什么问题的。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)看4K完全不卡、但看8K偶尔也会出现卡顿。<br>
+  * 下载视频时候，下载工具IDM，按照我的带宽，[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)是完全秒杀Trojan机场的，STC的下载速度平均下来能达到8M-13M不等,但[Trojan机场](https://portal.shadowsocks.nz/aff.php?aff=28409)的下载速度平均下来只有3M-5M不等。<br>
     2020.7.19补充，经过近段时间的体验，Trojan机场的速度已经得到了很大的提升，截图是clash的速度统计，如下
 ![Trojan机场下载速度](https://www.nsaimg.com/2020/07/19/71a2aff860e3e.jpg "Trojan机场下载速度")
-  * 当然[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的价格也比[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格高出很多。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)查看。[Trojan机场](https://t.co/FEE38PDhE6?amp=1)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
+  * 当然[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的价格也比[Trojan机场](https://portal.shadowsocks.nz/aff.php?aff=28409)的价格高出很多。[STC](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)的基础套餐**每月38元**，还有其它的更高等级套餐，可自行到[STC官网](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register?code=9JIx)查看。[Trojan机场](https://portal.shadowsocks.nz/aff.php?aff=28409)的价格是`每年19.95AUD`（按现在汇率折合人民币86元）。价格标准请以机场官网最新价格为准。<br>
   
 **以上机场的使用教程见各自官网的帮助中心，各平台工具的配置步骤都非常详细。**
   
