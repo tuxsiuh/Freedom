@@ -251,7 +251,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [综合救援知识图册及书籍，共1366册，大小0.5G](https://n459.com/file/25713053-455342656)，[预览](https://twitter.com/sxcool1024/status/1287899904862380033?s=20)
 * [免费撸谷歌云300$搭建Trojan的全程记录、如何避免谷歌云试用到期被扣费、谷歌云到期后如何继续使用](https://github.com/sxcool1024/googlecloud/blob/master/README.md)
-* ~~[著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)
+* ~~[著名摄影大师WANIMAL原版作品下载(已分享16.1G共8765张原图，持续更新中)](https://github.com/sxcool1024/WANIMAL-1983/blob/master/README.md)~~
 * [《20世纪中华歌坛名人百集珍藏版合集》102张原版CD音轨](https://github.com/sxcool1024/20th-Century-Music)
 * [周杰伦无损合集，发烧友正版碟片提取原版音轨](https://github.com/sxcool1024/Jay)
 * [google voice注册最新教程，同时分享如何免费获取美国电话号码的方法](https://github.com/sxcool1024/googlevoice/blob/master/README.md)
