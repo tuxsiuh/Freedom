@@ -247,6 +247,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
 * [一个很有趣的可免费获取比特币的网站，每小时获取一次，每次最高可获得200$的比特币，而且获得的币可直接提现](https://freebitco.in/?r=38664364)
+* [一种新的虚拟币hi币，目前还处于推广阶段，直接在telegram就可以操作免费获取，是比特币创始团队其中一个大佬搞得新项目，至于以后发展价值谁也说不准，可以试着玩玩](https://hi.com/sxcool)
 * [书格图书馆全站资源，大小1T ，格式 PDF](https://t.co/EcLG9YyIMn?amp=1)
 * [机械工业出版社原版PDF电子书下载，提供当当网一键搜索查询(已分享2542册书籍，持续更新中)](https://github.com/sxcool1024/-Machinery-Industry-Press/blob/master/README.md)
 * [综合救援知识图册及书籍，共1366册，大小0.5G](https://n459.com/file/25713053-455342656)，[预览](https://twitter.com/sxcool1024/status/1287899904862380033?s=20)
