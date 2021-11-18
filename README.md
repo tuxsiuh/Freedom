@@ -150,7 +150,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   2、<a href="https://github.com/yichengchen/clashX/releases">clash（Mac）下载</a><br>
   3、<a href="https://github.com/Kr328/ClashForAndroid/releases">clash（Android）下载</a>、
   <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en_US">Clash in Google Play安装</a><br>
-  4、<a href="https://sxcool1024.lanzous.com/i9zpaji">ClashR汉化版，支持SSR和V2ray订阅</a><br>
+  4、<a href="https://sxcool1024.lanzoux.com/i9zpaji">ClashR汉化版，支持SSR和V2ray订阅</a><br>
   5、<a href="https://docs.nameless13.com/shr/">ClashR各平台相关教程</a><br>
 </details>
 
@@ -176,7 +176,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   DNS，让科学上网速度更快，安全性更高，具体见下图<br>
   <img src="https://www.nsaimg.com/2020/05/08/98abce621e6c5.jpg" alt="SSTAP">
   <img src="https://www.nsaimg.com/2020/05/08/6a7fd9ec22033.jpg" alt="SSTAP">
-  2、<a href="https://sxcool1024.lanzous.com/iIvPbge7utg">SSTAP下载</a><br>
+  2、<a href="https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A">SSTAP下载</a><br>
 </details>
 
 ## <a id="c4.5" href="#h4.5">5、Netch</a> <br>
@@ -246,6 +246,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 # <a id="c5" href="#h5">五、其它实用资源、工具</a> <br>
 ## <a id="c5.1" href="#h5">实用资源</a> <br>
+* [iOS平台上一个性价比超高的试玩挣钱APP，我自己试了下，利用工作之余碎片化时间一到两个小时做任务，能挣差不多三到五十多元，当然你要空闲时间多，不间断做任务，一天收入一两百应该不是问题，已验证，提现也很快](http://q.ash-s.cn/download?fromuid=4766141)
 * [一个很有趣的可免费获取比特币的网站，每小时获取一次，每次最高可获得200$的比特币，而且获得的币可直接提现](https://freebitco.in/?r=38664364)
 * [一种新的虚拟币hi币，目前还处于推广阶段，直接在telegram就可以操作免费获取，是比特币创始团队其中一个大佬搞得新项目，至于以后发展价值谁也说不准，可以试着玩玩](https://hi.com/sxcool)
 * [书格图书馆全站资源，大小1T ，格式 PDF](https://t.co/EcLG9YyIMn?amp=1)
@@ -264,7 +265,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <summary>Windows</summary>
   <a href="https://github.com/lyswhut/lx-music-desktop/releases">1、洛雪音乐助手桌面版官网</a><br>
   <a href="https://guihet.com/blackbird-player.html">2、黑鸟视频播放器官网（同时也是看电视直播节目的利器，自带直播源）</a><br>
-  <a href="https://sxcool1024.lanzous.com/iS0eMge813c">3、四十四个油猴脚本下载</a><br>
+  <a href="https://sxcool1024.lanzoux.com/iS0eMge813c">3、四十四个油猴脚本下载</a><br>
 </details>
 
 <details>
@@ -273,10 +274,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
   <a href="https://www.wolong.tv">2、卧龙影视官网</a>    邀请码：WL345597<br>
   <a href="https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059">3、南瓜影视官网</a><br>
   <a href="https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090">4、冬瓜影视官网</a><br>
-  <a href="https://sxcool1024.lanzous.com/sxcool1024">5、短信轰炸机永久使用版下载</a><br>
+  <a href="https://sxcool1024.lanzoux.com/sxcool1024">5、短信轰炸机永久使用版下载</a><br>
   <a href="https://download.91porn001.me/aff-afeFw">6、打开复制链接到手机浏览器下载91APP，不要扫码下载</a><br>
-  <a href="https://sxcool1024.lanzous.com/iaojang">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
-  <a href="https://sxcool1024.lanzous.com/b00zbog4b">8、七款免费Android VPN</a><br>
+  <a href="https://sxcool1024.lanzoux.com/iaojang">7、spotify全功能破解版下载，需手机开启科学上网。小酷已体验半年多，强烈推荐</a><br>
+  <a href="https://sxcool1024.lanzoux.com/b00zbog4b">8、七款免费Android VPN</a><br>
 </details>
 
 <details>
